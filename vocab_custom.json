@@ -1,0 +1,433 @@
+[
+  {
+    "id": "cg-riprendere",
+    "italianTerm": "riprendere",
+    "englishTranslation": "to resume / to pick up again / to recover / to retake",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": ["neutral", "formal"],
+    "themes": ["Work", "Travel", "Everyday Life"],
+    "grammarNotes": "Riprendere is a compound verb formed from ri- (again) + prendere (to take), and it follows the same irregular conjugation as prendere in all tenses. In compound tenses it takes avere as its auxiliary: ho ripreso, avevo ripreso. The past participle is ripreso — irregular, like preso. In the future tense (riprenderà, riprenderemo) it expresses a scheduled or anticipated resumption of activity, making it the standard verb in announcements and formal contexts: 'I lavori riprenderanno lunedì' (Work will resume Monday). When used reflexively as riprendersi, it shifts meaning to 'to recover' from illness or shock.",
+    "learnerNotes": "English speakers often reach for ricominciare when they mean riprendere, but the two are not interchangeable. Ricominciare means to start over from the beginning; riprendere means to pick up where you left off — the distinction matters. Think of a film after an interval: it riprende, it doesn't ricomincia. The ri- prefix is the key: it signals resumption, not fresh start. Also worth memorizing: 'riprendere fiato' (to catch one's breath) and 'riprendersi dal jet lag' (to recover from jet lag) — both common and natural.",
+    "exampleSentences": [
+      {
+        "italian": "La riunione riprende tra cinque minuti.",
+        "english": "The meeting resumes in five minutes."
+      },
+      {
+        "italian": "Dopo le vacanze, ho ripreso il lavoro con più energia.",
+        "english": "After the holidays, I picked up work again with more energy."
+      },
+      {
+        "italian": "I treni riprenderanno a circolare domani mattina.",
+        "english": "Trains will resume running tomorrow morning."
+      },
+      {
+        "italian": "Si è ripresa bene dall'operazione.",
+        "english": "She recovered well from the operation."
+      },
+      {
+        "italian": "Riprendiamo da dove eravamo rimasti.",
+        "english": "Let's pick up from where we left off."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "riprendersi",
+        "meaning": "to recover (from illness, shock, or difficulty)"
+      },
+      {
+        "expression": "riprendere fiato",
+        "meaning": "to catch one's breath"
+      },
+      {
+        "expression": "riprendere i sensi",
+        "meaning": "to regain consciousness / to come to"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-arrivo",
+    "italianTerm": "arrivo",
+    "englishTranslation": "arrival / finish line",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": ["neutral"],
+    "themes": ["Travel", "Everyday Life"],
+    "grammarNotes": "Arrivo is a masculine noun (l'arrivo, gli arrivi). It is formed from the verb arrivare and functions as both a standalone noun and — crucially — as part of a fixed prepositional phrase. The construction all'arrivo (al + arrivo, contracted to all' before a vowel) means 'upon arrival' or 'on arrival' and is extremely common in transport, hospitality, and formal announcements. The apostrophe in all' is not optional — it signals elision of the article before a vowel and is always written.",
+    "learnerNotes": "The phrase all'arrivo is one of a productive family of constructions using al/alla/all' + noun that describe the moment of reaching a destination or threshold: all'arrivo, alla partenza, all'uscita, all'ingresso. Mastering this pattern unlocks natural-sounding Italian in airports, train stations, hotels, and events. Note that arrivo also means 'finish line' in sports — 'tagliare il traguardo all'arrivo' — so context matters. In everyday speech, 'sono in arrivo' (I'm on my way / I'm nearly there) is a very common and useful expression.",
+    "exampleSentences": [
+      {
+        "italian": "All'arrivo, ti aspetto fuori dall'aeroporto.",
+        "english": "On arrival, I'll wait for you outside the airport."
+      },
+      {
+        "italian": "Il treno è in arrivo al binario tre.",
+        "english": "The train is arriving at platform three."
+      },
+      {
+        "italian": "All'arrivo in hotel, ci hanno offerto un drink di benvenuto.",
+        "english": "On arrival at the hotel, they offered us a welcome drink."
+      },
+      {
+        "italian": "Gli arrivi internazionali sono al terminal B.",
+        "english": "International arrivals are at terminal B."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'arrivo",
+        "meaning": "upon arrival / on arrival"
+      },
+      {
+        "expression": "essere in arrivo",
+        "meaning": "to be on the way / to be arriving"
+      },
+      {
+        "expression": "orario di arrivo",
+        "meaning": "arrival time / estimated time of arrival"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-partenza",
+    "italianTerm": "partenza",
+    "englishTranslation": "departure / start",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": ["neutral"],
+    "themes": ["Travel", "Everyday Life"],
+    "grammarNotes": "Partenza is a feminine noun (la partenza, le partenze), derived from the verb partire. Like arrivo, it pairs naturally with the preposition a to form alla partenza (at/upon departure). The construction follows the same logic as all'arrivo: al/alla/all' + noun signals the moment of a transition. In transport contexts, 'le partenze' (departures) is the plural form you'll see on departure boards. Partenza is also used in sports and racing to mean 'start' — la partenza is the noun for the starting event itself.",
+    "learnerNotes": "Alla partenza pairs naturally with all'arrivo as its mirror — if you know one, you know the other. A useful real-world phrase is 'in partenza' (departing / about to leave): 'Il treno in partenza dal binario uno' is what you'll hear over the PA system at every Italian train station. Notice that 'in partenza' and 'in arrivo' are the two most common transport announcements in Italian — internalising them makes navigating stations and airports dramatically easier. Punto di partenza (starting point) is also widely used figuratively in discussions and presentations.",
+    "exampleSentences": [
+      {
+        "italian": "Alla partenza, ci siamo salutati con un abbraccio.",
+        "english": "At departure, we said goodbye with a hug."
+      },
+      {
+        "italian": "Il volo in partenza per Roma è in ritardo.",
+        "english": "The departing flight to Rome is delayed."
+      },
+      {
+        "italian": "Le partenze sono al piano superiore.",
+        "english": "Departures are on the upper floor."
+      },
+      {
+        "italian": "Alla partenza dei corridori, la folla ha applaudito.",
+        "english": "At the start of the runners, the crowd applauded."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "alla partenza",
+        "meaning": "at departure / upon departure"
+      },
+      {
+        "expression": "in partenza",
+        "meaning": "departing / about to leave"
+      },
+      {
+        "expression": "punto di partenza",
+        "meaning": "starting point / point of departure"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-uscita",
+    "italianTerm": "uscita",
+    "englishTranslation": "exit / way out / outing",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": ["neutral"],
+    "themes": ["Travel", "Everyday Life"],
+    "grammarNotes": "Uscita is a feminine noun (l'uscita, le uscite), derived from the verb uscire. The prepositional phrase all'uscita (all' + uscita, with elision before the vowel) means 'at the exit' or 'upon leaving.' Beyond the transport and physical-space sense, uscita also means an outing or casual trip — 'una uscita con gli amici' (an outing with friends) — and in formal Italian it can refer to an outgoing payment or expenditure. The plural le uscite covers all these senses depending on context.",
+    "learnerNotes": "All'uscita is the third member of the al/alla/all' family alongside all'arrivo and alla partenza, but it has an extra dimension: it refers to a specific point in space (the exit) as much as a moment in time (upon leaving). You'll hear 'ci vediamo all'uscita' (see you at the exit / see you when we come out) constantly — after school, after a concert, after the cinema. The informal sense of uscita covering casual plans surprises learners: 'facciamo un'uscita?' means 'shall we go out?' — a very natural everyday usage.",
+    "exampleSentences": [
+      {
+        "italian": "Ci vediamo all'uscita del cinema.",
+        "english": "See you at the exit of the cinema."
+      },
+      {
+        "italian": "All'uscita dalla metropolitana, gira a destra.",
+        "english": "On leaving the metro, turn right."
+      },
+      {
+        "italian": "L'uscita di emergenza è in fondo al corridoio.",
+        "english": "The emergency exit is at the end of the corridor."
+      },
+      {
+        "italian": "Abbiamo organizzato un'uscita in barca per sabato.",
+        "english": "We've organised a boat outing for Saturday."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'uscita",
+        "meaning": "at the exit / upon leaving"
+      },
+      {
+        "expression": "uscita di emergenza",
+        "meaning": "emergency exit"
+      },
+      {
+        "expression": "fare un'uscita",
+        "meaning": "to go on an outing / to go out casually"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-ingresso",
+    "italianTerm": "ingresso",
+    "englishTranslation": "entrance / entry / admission",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": ["neutral", "formal"],
+    "themes": ["Travel", "Everyday Life"],
+    "grammarNotes": "Ingresso is a masculine noun (l'ingresso, gli ingressi), derived via Latin ingressus. The prepositional phrase all'ingresso means 'at the entrance' or 'upon entry.' Ingresso also carries the sense of admission — 'ingresso libero' (free entry) and 'ingresso a pagamento' (paid admission) are standard signs at museums, exhibitions, and events. Unlike uscita, which has the extra informal sense of an outing, ingresso stays firmly in the spatial and institutional domain.",
+    "learnerNotes": "All'ingresso completes the four-part family: all'arrivo, alla partenza, all'uscita, all'ingresso. Of the four, ingresso is the most formal in register — you're more likely to see it on signage and in announcements than in casual speech, where 'all'entrata' is sometimes used instead. Practically: 'ingresso libero' on a museum or gallery sign means no ticket required — a phrase worth knowing immediately. Ingresso can also refer to the entrance hall of a home: 'aspettami nell'ingresso' means 'wait for me in the entrance hall' — a domestic usage learners often miss.",
+    "exampleSentences": [
+      {
+        "italian": "All'ingresso del museo, bisogna mostrare il biglietto.",
+        "english": "At the entrance to the museum, you need to show your ticket."
+      },
+      {
+        "italian": "L'ingresso è gratuito per i bambini sotto i dodici anni.",
+        "english": "Entry is free for children under twelve."
+      },
+      {
+        "italian": "All'ingresso della villa c'è un cancello in ferro battuto.",
+        "english": "At the entrance to the villa there is a wrought-iron gate."
+      },
+      {
+        "italian": "Lascia le scarpe nell'ingresso, per favore.",
+        "english": "Leave your shoes in the entrance hall, please."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'ingresso",
+        "meaning": "at the entrance / upon entry"
+      },
+      {
+        "expression": "ingresso libero",
+        "meaning": "free entry / free admission"
+      },
+      {
+        "expression": "vietato l'ingresso",
+        "meaning": "no entry / entry forbidden"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-decisamente",
+    "italianTerm": "decisamente",
+    "englishTranslation": "definitely / decidedly / clearly / absolutely",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": ["neutral", "colloquial"],
+    "themes": ["Everyday Life", "Emotions"],
+    "grammarNotes": "Decisamente is an adverb formed from the adjective deciso (decided, firm) via the standard Italian adverb construction: feminine singular adjective + -mente. It is invariable — it never agrees with gender or number. Decisamente typically modifies adjectives ('decisamente migliore' — decidedly better), verbs ('ha decisamente rifiutato' — she flatly refused), or entire clauses when placed at the start for emphasis. Its position is flexible: it can open a sentence, follow the verb, or precede the adjective it modifies.",
+    "learnerNotes": "Decisamente is stronger and more emphatic than semplicemente or abbastanza — it carries a confident 'no doubt about it' quality. Learners sometimes confuse it with sicuramente (surely, certainly) or assolutamente (absolutely), but decisamente has a sharper, more opinionated edge — it expresses a judgment, not just certainty. In spoken Italian it functions well as a standalone response: 'decisamente!' means 'absolutely!' or 'no question!' A practical tip: if you're tempted to say 'molto' + adjective for emphasis, consider whether decisamente would sound more natural and grown-up.",
+    "exampleSentences": [
+      {
+        "italian": "Questo ristorante è decisamente migliore dell'altro.",
+        "english": "This restaurant is decidedly better than the other one."
+      },
+      {
+        "italian": "Ha decisamente rifiutato l'offerta senza pensarci.",
+        "english": "She flatly refused the offer without thinking about it."
+      },
+      {
+        "italian": "Decisamente, avremmo dovuto prenotare prima.",
+        "english": "We definitely should have booked earlier."
+      },
+      {
+        "italian": "Il film era decisamente troppo lungo.",
+        "english": "The film was decidedly too long."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "assolutamente",
+        "meaning": "absolutely — stronger and more absolute in tone"
+      },
+      {
+        "expression": "sicuramente",
+        "meaning": "surely / certainly — about probability rather than emphasis"
+      },
+      {
+        "expression": "chiaramente",
+        "meaning": "clearly — factual rather than emphatic"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-a-fondo",
+    "italianTerm": "a fondo",
+    "englishTranslation": "thoroughly / in depth / to the bottom",
+    "partOfSpeech": "phrase",
+    "level": "Advanced",
+    "register": ["neutral", "formal"],
+    "themes": ["Work", "Everyday Life"],
+    "grammarNotes": "A fondo is an adverbial phrase — it functions as an adverb modifying a verb and is always written as two words (never afondo). It most commonly follows the verb it modifies: 'studiare a fondo' (to study thoroughly), 'esaminare a fondo' (to examine in depth), 'conoscere a fondo' (to know thoroughly). The literal meaning is 'to the bottom,' which gives the idiomatic sense of going all the way down into something — comprehensive, without leaving anything unexplored. It cannot be used before a noun; it is strictly adverbial.",
+    "learnerNotes": "A fondo pairs most naturally with verbs of mental effort and investigation: studiare, esaminare, analizzare, conoscere, capire, approfondire. It's the phrase to reach for when you want to say you've done something with genuine depth rather than superficially. A common pitfall: learners sometimes use completamente or totalmente instead, but those convey completion or totality, not depth. 'Ho studiato completamente il capitolo' means I finished the chapter; 'ho studiato a fondo il capitolo' means I really worked through it carefully — a meaningful difference.",
+    "exampleSentences": [
+      {
+        "italian": "Bisogna studiare a fondo la grammatica italiana.",
+        "english": "You need to study Italian grammar thoroughly."
+      },
+      {
+        "italian": "I medici hanno esaminato il paziente a fondo prima di decidere.",
+        "english": "The doctors examined the patient thoroughly before deciding."
+      },
+      {
+        "italian": "Non conosco a fondo la cultura giapponese, ma mi affascina.",
+        "english": "I don't know Japanese culture in depth, but it fascinates me."
+      },
+      {
+        "italian": "Dobbiamo analizzare a fondo le cause del problema.",
+        "english": "We need to analyse the causes of the problem in depth."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "approfondire",
+        "meaning": "to go deeper into / to explore in depth — the verb equivalent of a fondo"
+      },
+      {
+        "expression": "nel dettaglio",
+        "meaning": "in detail — focuses on specifics rather than overall depth"
+      },
+      {
+        "expression": "in modo approfondito",
+        "meaning": "in a thorough manner — more formal synonym"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-tenebre",
+    "italianTerm": "tenebre",
+    "englishTranslation": "darkness / gloom / shadows (literary/figurative)",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "register": ["formal"],
+    "themes": ["Emotions", "Language & Usage"],
+    "grammarNotes": "Tenebre is a feminine plural noun — it has no singular form in standard Italian usage (it is plurale tantum). You say 'le tenebre' always, never 'la tenebra' in ordinary usage (though 'la tenebra' occasionally appears in poetry). It takes plural agreement throughout: 'le tenebre erano fitte' (the darkness was thick), 'queste tenebre pesanti' (this heavy gloom). Because it is always plural, it pairs with plural adjectives and plural verbs, even when English treats the concept as singular.",
+    "learnerNotes": "Italian has three main words for darkness — buio, oscurità, and tenebre — and choosing the right one matters. Buio is the everyday word: concrete, neutral, used whenever the lights are off or a room is dark ('ho paura del buio' — I'm afraid of the dark). Oscurità is more formal and abstract, often found in scientific or descriptive writing. Tenebre belongs to the literary and figurative register — religious texts, poetry, dramatic narrative, and metaphor. It implies not just absence of light but a quality of menace, mystery, or moral weight — the darkness of evil, of the soul, of the unknown. You would never say 'ho paura delle tenebre' in casual speech; that's a poetic statement, not an everyday complaint.",
+    "exampleSentences": [
+      {
+        "italian": "Il castello era avvolto nelle tenebre della notte.",
+        "english": "The castle was wrapped in the darkness of the night."
+      },
+      {
+        "italian": "La luce vinse sulle tenebre.",
+        "english": "Light triumphed over darkness."
+      },
+      {
+        "italian": "Viveva nelle tenebre dell'ignoranza.",
+        "english": "He lived in the darkness of ignorance."
+      },
+      {
+        "italian": "Le tenebre scesero sulla città dopo il tramonto.",
+        "english": "Darkness fell over the city after sunset."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "il buio",
+        "meaning": "darkness — everyday, neutral, concrete (lights off, a dark room)"
+      },
+      {
+        "expression": "l'oscurità",
+        "meaning": "darkness / obscurity — formal and descriptive, less metaphorical than tenebre"
+      },
+      {
+        "expression": "principe delle tenebre",
+        "meaning": "prince of darkness — fixed phrase for the devil"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-andarsene",
+    "italianTerm": "andarsene",
+    "englishTranslation": "to leave / to go away / to be off",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": ["neutral", "colloquial"],
+    "themes": ["Everyday Life", "Language & Usage"],
+    "grammarNotes": "Andarsene is a pronominal verb — andare combined with the reflexive particle si and the partitive particle ne, fused together. In conjugation, si becomes the reflexive pronoun matching the subject (me ne vado, te ne vai, se ne va, ce ne andiamo, ve ne andate, se ne vanno), and ne remains in place. In compound tenses it takes essere as its auxiliary, and the past participle andato agrees with the subject in gender and number: 'me ne sono andato' (masculine), 'me ne sono andata' (feminine). This agreement rule is the most common error learners make with this verb.",
+    "learnerNotes": "Andarsene is not simply a synonym for andare. The particle ne adds a sense of definitive departure — leaving a place entirely, often with a nuance of finality, relief, or drama that plain andare lacks. 'Vado' means I'm going (somewhere); 'me ne vado' means I'm leaving (this place, getting out of here). The register ranges from calm to emphatic depending on context and tone — the same phrase can signal a polite exit or a dramatic storming-out. The imperative 'vattene!' (go away! / get out!) is extremely common and impossible to understand without knowing this construction, so it's worth memorising early.",
+    "exampleSentences": [
+      {
+        "italian": "È tardi, me ne vado.",
+        "english": "It's late, I'm off."
+      },
+      {
+        "italian": "Se ne è andato senza salutare nessuno.",
+        "english": "He left without saying goodbye to anyone."
+      },
+      {
+        "italian": "Dopo la discussione, ce ne siamo andati in silenzio.",
+        "english": "After the argument, we left in silence."
+      },
+      {
+        "italian": "Vattene! Non voglio vederti.",
+        "english": "Go away! I don't want to see you."
+      },
+      {
+        "italian": "Me ne sono andato prima della fine dello spettacolo.",
+        "english": "I left before the end of the show."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "vattene!",
+        "meaning": "go away! / get out! — imperative, very common in spoken Italian"
+      },
+      {
+        "expression": "farsela",
+        "meaning": "to make off / to get away — more colloquial, often implies urgency or escape"
+      },
+      {
+        "expression": "togliersi di mezzo",
+        "meaning": "to get out of the way / to remove oneself — emphatic, often figurative"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  }
+]
