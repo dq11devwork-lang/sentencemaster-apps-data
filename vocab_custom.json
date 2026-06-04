@@ -1,0 +1,2300 @@
+[
+  {
+    "id": "cg-riprendere",
+    "italianTerm": "riprendere",
+    "englishTranslation": "to resume / to pick up again / to recover / to retake",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Work",
+      "Travel",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Riprendere is a compound verb formed from ri- (again) + prendere (to take), and it follows the same irregular conjugation as prendere in all tenses. In compound tenses it takes avere as its auxiliary: ho ripreso, avevo ripreso. The past participle is ripreso — irregular, like preso. In the future tense (riprenderà, riprenderemo) it expresses a scheduled or anticipated resumption of activity, making it the standard verb in announcements and formal contexts: 'I lavori riprenderanno lunedì' (Work will resume Monday). When used reflexively as riprendersi, it shifts meaning to 'to recover' from illness or shock.",
+    "learnerNotes": "English speakers often reach for ricominciare when they mean riprendere, but the two are not interchangeable. Ricominciare means to start over from the beginning; riprendere means to pick up where you left off — the distinction matters. Think of a film after an interval: it riprende, it doesn't ricomincia. The ri- prefix is the key: it signals resumption, not fresh start. Also worth memorizing: 'riprendere fiato' (to catch one's breath) and 'riprendersi dal jet lag' (to recover from jet lag) — both common and natural.",
+    "exampleSentences": [
+      {
+        "italian": "La riunione riprende tra cinque minuti.",
+        "english": "The meeting resumes in five minutes."
+      },
+      {
+        "italian": "Dopo le vacanze, ho ripreso il lavoro con più energia.",
+        "english": "After the holidays, I picked up work again with more energy."
+      },
+      {
+        "italian": "I treni riprenderanno a circolare domani mattina.",
+        "english": "Trains will resume running tomorrow morning."
+      },
+      {
+        "italian": "Si è ripresa bene dall'operazione.",
+        "english": "She recovered well from the operation."
+      },
+      {
+        "italian": "Riprendiamo da dove eravamo rimasti.",
+        "english": "Let's pick up from where we left off."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "riprendersi",
+        "meaning": "to recover (from illness, shock, or difficulty)"
+      },
+      {
+        "expression": "riprendere fiato",
+        "meaning": "to catch one's breath"
+      },
+      {
+        "expression": "riprendere i sensi",
+        "meaning": "to regain consciousness / to come to"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-arrivo",
+    "italianTerm": "arrivo",
+    "englishTranslation": "arrival / finish line",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Travel",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Arrivo is a masculine noun (l'arrivo, gli arrivi). It is formed from the verb arrivare and functions as both a standalone noun and — crucially — as part of a fixed prepositional phrase. The construction all'arrivo (al + arrivo, contracted to all' before a vowel) means 'upon arrival' or 'on arrival' and is extremely common in transport, hospitality, and formal announcements. The apostrophe in all' is not optional — it signals elision of the article before a vowel and is always written.",
+    "learnerNotes": "The phrase all'arrivo is one of a productive family of constructions using al/alla/all' + noun that describe the moment of reaching a destination or threshold: all'arrivo, alla partenza, all'uscita, all'ingresso. Mastering this pattern unlocks natural-sounding Italian in airports, train stations, hotels, and events. Note that arrivo also means 'finish line' in sports — 'tagliare il traguardo all'arrivo' — so context matters. In everyday speech, 'sono in arrivo' (I'm on my way / I'm nearly there) is a very common and useful expression.",
+    "exampleSentences": [
+      {
+        "italian": "All'arrivo, ti aspetto fuori dall'aeroporto.",
+        "english": "On arrival, I'll wait for you outside the airport."
+      },
+      {
+        "italian": "Il treno è in arrivo al binario tre.",
+        "english": "The train is arriving at platform three."
+      },
+      {
+        "italian": "All'arrivo in hotel, ci hanno offerto un drink di benvenuto.",
+        "english": "On arrival at the hotel, they offered us a welcome drink."
+      },
+      {
+        "italian": "Gli arrivi internazionali sono al terminal B.",
+        "english": "International arrivals are at terminal B."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'arrivo",
+        "meaning": "upon arrival / on arrival"
+      },
+      {
+        "expression": "essere in arrivo",
+        "meaning": "to be on the way / to be arriving"
+      },
+      {
+        "expression": "orario di arrivo",
+        "meaning": "arrival time / estimated time of arrival"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-partenza",
+    "italianTerm": "partenza",
+    "englishTranslation": "departure / start",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Travel",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Partenza is a feminine noun (la partenza, le partenze), derived from the verb partire. Like arrivo, it pairs naturally with the preposition a to form alla partenza (at/upon departure). The construction follows the same logic as all'arrivo: al/alla/all' + noun signals the moment of a transition. In transport contexts, 'le partenze' (departures) is the plural form you'll see on departure boards. Partenza is also used in sports and racing to mean 'start' — la partenza is the noun for the starting event itself.",
+    "learnerNotes": "Alla partenza pairs naturally with all'arrivo as its mirror — if you know one, you know the other. A useful real-world phrase is 'in partenza' (departing / about to leave): 'Il treno in partenza dal binario uno' is what you'll hear over the PA system at every Italian train station. Notice that 'in partenza' and 'in arrivo' are the two most common transport announcements in Italian — internalising them makes navigating stations and airports dramatically easier. Punto di partenza (starting point) is also widely used figuratively in discussions and presentations.",
+    "exampleSentences": [
+      {
+        "italian": "Alla partenza, ci siamo salutati con un abbraccio.",
+        "english": "At departure, we said goodbye with a hug."
+      },
+      {
+        "italian": "Il volo in partenza per Roma è in ritardo.",
+        "english": "The departing flight to Rome is delayed."
+      },
+      {
+        "italian": "Le partenze sono al piano superiore.",
+        "english": "Departures are on the upper floor."
+      },
+      {
+        "italian": "Alla partenza dei corridori, la folla ha applaudito.",
+        "english": "At the start of the runners, the crowd applauded."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "alla partenza",
+        "meaning": "at departure / upon departure"
+      },
+      {
+        "expression": "in partenza",
+        "meaning": "departing / about to leave"
+      },
+      {
+        "expression": "punto di partenza",
+        "meaning": "starting point / point of departure"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-uscita",
+    "italianTerm": "uscita",
+    "englishTranslation": "exit / way out / outing",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Travel",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Uscita is a feminine noun (l'uscita, le uscite), derived from the verb uscire. The prepositional phrase all'uscita (all' + uscita, with elision before the vowel) means 'at the exit' or 'upon leaving.' Beyond the transport and physical-space sense, uscita also means an outing or casual trip — 'una uscita con gli amici' (an outing with friends) — and in formal Italian it can refer to an outgoing payment or expenditure. The plural le uscite covers all these senses depending on context.",
+    "learnerNotes": "All'uscita is the third member of the al/alla/all' family alongside all'arrivo and alla partenza, but it has an extra dimension: it refers to a specific point in space (the exit) as much as a moment in time (upon leaving). You'll hear 'ci vediamo all'uscita' (see you at the exit / see you when we come out) constantly — after school, after a concert, after the cinema. The informal sense of uscita covering casual plans surprises learners: 'facciamo un'uscita?' means 'shall we go out?' — a very natural everyday usage.",
+    "exampleSentences": [
+      {
+        "italian": "Ci vediamo all'uscita del cinema.",
+        "english": "See you at the exit of the cinema."
+      },
+      {
+        "italian": "All'uscita dalla metropolitana, gira a destra.",
+        "english": "On leaving the metro, turn right."
+      },
+      {
+        "italian": "L'uscita di emergenza è in fondo al corridoio.",
+        "english": "The emergency exit is at the end of the corridor."
+      },
+      {
+        "italian": "Abbiamo organizzato un'uscita in barca per sabato.",
+        "english": "We've organised a boat outing for Saturday."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'uscita",
+        "meaning": "at the exit / upon leaving"
+      },
+      {
+        "expression": "uscita di emergenza",
+        "meaning": "emergency exit"
+      },
+      {
+        "expression": "fare un'uscita",
+        "meaning": "to go on an outing / to go out casually"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-ingresso",
+    "italianTerm": "ingresso",
+    "englishTranslation": "entrance / entry / admission",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Travel",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Ingresso is a masculine noun (l'ingresso, gli ingressi), derived via Latin ingressus. The prepositional phrase all'ingresso means 'at the entrance' or 'upon entry.' Ingresso also carries the sense of admission — 'ingresso libero' (free entry) and 'ingresso a pagamento' (paid admission) are standard signs at museums, exhibitions, and events. Unlike uscita, which has the extra informal sense of an outing, ingresso stays firmly in the spatial and institutional domain.",
+    "learnerNotes": "All'ingresso completes the four-part family: all'arrivo, alla partenza, all'uscita, all'ingresso. Of the four, ingresso is the most formal in register — you're more likely to see it on signage and in announcements than in casual speech, where 'all'entrata' is sometimes used instead. Practically: 'ingresso libero' on a museum or gallery sign means no ticket required — a phrase worth knowing immediately. Ingresso can also refer to the entrance hall of a home: 'aspettami nell'ingresso' means 'wait for me in the entrance hall' — a domestic usage learners often miss.",
+    "exampleSentences": [
+      {
+        "italian": "All'ingresso del museo, bisogna mostrare il biglietto.",
+        "english": "At the entrance to the museum, you need to show your ticket."
+      },
+      {
+        "italian": "L'ingresso è gratuito per i bambini sotto i dodici anni.",
+        "english": "Entry is free for children under twelve."
+      },
+      {
+        "italian": "All'ingresso della villa c'è un cancello in ferro battuto.",
+        "english": "At the entrance to the villa there is a wrought-iron gate."
+      },
+      {
+        "italian": "Lascia le scarpe nell'ingresso, per favore.",
+        "english": "Leave your shoes in the entrance hall, please."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "all'ingresso",
+        "meaning": "at the entrance / upon entry"
+      },
+      {
+        "expression": "ingresso libero",
+        "meaning": "free entry / free admission"
+      },
+      {
+        "expression": "vietato l'ingresso",
+        "meaning": "no entry / entry forbidden"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-decisamente",
+    "italianTerm": "decisamente",
+    "englishTranslation": "definitely / decidedly / clearly / absolutely",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Emotions"
+    ],
+    "grammarNotes": "Decisamente is an adverb formed from the adjective deciso (decided, firm) via the standard Italian adverb construction: feminine singular adjective + -mente. It is invariable — it never agrees with gender or number. Decisamente typically modifies adjectives ('decisamente migliore' — decidedly better), verbs ('ha decisamente rifiutato' — she flatly refused), or entire clauses when placed at the start for emphasis. Its position is flexible: it can open a sentence, follow the verb, or precede the adjective it modifies.",
+    "learnerNotes": "Decisamente is stronger and more emphatic than semplicemente or abbastanza — it carries a confident 'no doubt about it' quality. Learners sometimes confuse it with sicuramente (surely, certainly) or assolutamente (absolutely), but decisamente has a sharper, more opinionated edge — it expresses a judgment, not just certainty. In spoken Italian it functions well as a standalone response: 'decisamente!' means 'absolutely!' or 'no question!' A practical tip: if you're tempted to say 'molto' + adjective for emphasis, consider whether decisamente would sound more natural and grown-up.",
+    "exampleSentences": [
+      {
+        "italian": "Questo ristorante è decisamente migliore dell'altro.",
+        "english": "This restaurant is decidedly better than the other one."
+      },
+      {
+        "italian": "Ha decisamente rifiutato l'offerta senza pensarci.",
+        "english": "She flatly refused the offer without thinking about it."
+      },
+      {
+        "italian": "Decisamente, avremmo dovuto prenotare prima.",
+        "english": "We definitely should have booked earlier."
+      },
+      {
+        "italian": "Il film era decisamente troppo lungo.",
+        "english": "The film was decidedly too long."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "assolutamente",
+        "meaning": "absolutely — stronger and more absolute in tone"
+      },
+      {
+        "expression": "sicuramente",
+        "meaning": "surely / certainly — about probability rather than emphasis"
+      },
+      {
+        "expression": "chiaramente",
+        "meaning": "clearly — factual rather than emphatic"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-a-fondo",
+    "italianTerm": "a fondo",
+    "englishTranslation": "thoroughly / in depth / to the bottom",
+    "partOfSpeech": "phrase",
+    "level": "Advanced",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Work",
+      "Everyday Life"
+    ],
+    "grammarNotes": "A fondo is an adverbial phrase — it functions as an adverb modifying a verb and is always written as two words (never afondo). It most commonly follows the verb it modifies: 'studiare a fondo' (to study thoroughly), 'esaminare a fondo' (to examine in depth), 'conoscere a fondo' (to know thoroughly). The literal meaning is 'to the bottom,' which gives the idiomatic sense of going all the way down into something — comprehensive, without leaving anything unexplored. It cannot be used before a noun; it is strictly adverbial.",
+    "learnerNotes": "A fondo pairs most naturally with verbs of mental effort and investigation: studiare, esaminare, analizzare, conoscere, capire, approfondire. It's the phrase to reach for when you want to say you've done something with genuine depth rather than superficially. A common pitfall: learners sometimes use completamente or totalmente instead, but those convey completion or totality, not depth. 'Ho studiato completamente il capitolo' means I finished the chapter; 'ho studiato a fondo il capitolo' means I really worked through it carefully — a meaningful difference.",
+    "exampleSentences": [
+      {
+        "italian": "Bisogna studiare a fondo la grammatica italiana.",
+        "english": "You need to study Italian grammar thoroughly."
+      },
+      {
+        "italian": "I medici hanno esaminato il paziente a fondo prima di decidere.",
+        "english": "The doctors examined the patient thoroughly before deciding."
+      },
+      {
+        "italian": "Non conosco a fondo la cultura giapponese, ma mi affascina.",
+        "english": "I don't know Japanese culture in depth, but it fascinates me."
+      },
+      {
+        "italian": "Dobbiamo analizzare a fondo le cause del problema.",
+        "english": "We need to analyse the causes of the problem in depth."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "approfondire",
+        "meaning": "to go deeper into / to explore in depth — the verb equivalent of a fondo"
+      },
+      {
+        "expression": "nel dettaglio",
+        "meaning": "in detail — focuses on specifics rather than overall depth"
+      },
+      {
+        "expression": "in modo approfondito",
+        "meaning": "in a thorough manner — more formal synonym"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-tenebre",
+    "italianTerm": "tenebre",
+    "englishTranslation": "darkness / gloom / shadows (literary/figurative)",
+    "partOfSpeech": "noun",
+    "level": "Advanced",
+    "register": [
+      "formal"
+    ],
+    "themes": [
+      "Emotions",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Tenebre is a feminine plural noun — it has no singular form in standard Italian usage (it is plurale tantum). You say 'le tenebre' always, never 'la tenebra' in ordinary usage (though 'la tenebra' occasionally appears in poetry). It takes plural agreement throughout: 'le tenebre erano fitte' (the darkness was thick), 'queste tenebre pesanti' (this heavy gloom). Because it is always plural, it pairs with plural adjectives and plural verbs, even when English treats the concept as singular.",
+    "learnerNotes": "Italian has three main words for darkness — buio, oscurità, and tenebre — and choosing the right one matters. Buio is the everyday word: concrete, neutral, used whenever the lights are off or a room is dark ('ho paura del buio' — I'm afraid of the dark). Oscurità is more formal and abstract, often found in scientific or descriptive writing. Tenebre belongs to the literary and figurative register — religious texts, poetry, dramatic narrative, and metaphor. It implies not just absence of light but a quality of menace, mystery, or moral weight — the darkness of evil, of the soul, of the unknown. You would never say 'ho paura delle tenebre' in casual speech; that's a poetic statement, not an everyday complaint.",
+    "exampleSentences": [
+      {
+        "italian": "Il castello era avvolto nelle tenebre della notte.",
+        "english": "The castle was wrapped in the darkness of the night."
+      },
+      {
+        "italian": "La luce vinse sulle tenebre.",
+        "english": "Light triumphed over darkness."
+      },
+      {
+        "italian": "Viveva nelle tenebre dell'ignoranza.",
+        "english": "He lived in the darkness of ignorance."
+      },
+      {
+        "italian": "Le tenebre scesero sulla città dopo il tramonto.",
+        "english": "Darkness fell over the city after sunset."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "il buio",
+        "meaning": "darkness — everyday, neutral, concrete (lights off, a dark room)"
+      },
+      {
+        "expression": "l'oscurità",
+        "meaning": "darkness / obscurity — formal and descriptive, less metaphorical than tenebre"
+      },
+      {
+        "expression": "principe delle tenebre",
+        "meaning": "prince of darkness — fixed phrase for the devil"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-andarsene",
+    "italianTerm": "andarsene",
+    "englishTranslation": "to leave / to go away / to be off",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Andarsene is a pronominal verb — andare combined with the reflexive particle si and the partitive particle ne, fused together. In conjugation, si becomes the reflexive pronoun matching the subject (me ne vado, te ne vai, se ne va, ce ne andiamo, ve ne andate, se ne vanno), and ne remains in place. In compound tenses it takes essere as its auxiliary, and the past participle andato agrees with the subject in gender and number: 'me ne sono andato' (masculine), 'me ne sono andata' (feminine). This agreement rule is the most common error learners make with this verb.",
+    "learnerNotes": "Andarsene is not simply a synonym for andare. The particle ne adds a sense of definitive departure — leaving a place entirely, often with a nuance of finality, relief, or drama that plain andare lacks. 'Vado' means I'm going (somewhere); 'me ne vado' means I'm leaving (this place, getting out of here). The register ranges from calm to emphatic depending on context and tone — the same phrase can signal a polite exit or a dramatic storming-out. The imperative 'vattene!' (go away! / get out!) is extremely common and impossible to understand without knowing this construction, so it's worth memorising early.",
+    "exampleSentences": [
+      {
+        "italian": "È tardi, me ne vado.",
+        "english": "It's late, I'm off."
+      },
+      {
+        "italian": "Se ne è andato senza salutare nessuno.",
+        "english": "He left without saying goodbye to anyone."
+      },
+      {
+        "italian": "Dopo la discussione, ce ne siamo andati in silenzio.",
+        "english": "After the argument, we left in silence."
+      },
+      {
+        "italian": "Vattene! Non voglio vederti.",
+        "english": "Go away! I don't want to see you."
+      },
+      {
+        "italian": "Me ne sono andato prima della fine dello spettacolo.",
+        "english": "I left before the end of the show."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "vattene!",
+        "meaning": "go away! / get out! — imperative, very common in spoken Italian"
+      },
+      {
+        "expression": "farsela",
+        "meaning": "to make off / to get away — more colloquial, often implies urgency or escape"
+      },
+      {
+        "expression": "togliersi di mezzo",
+        "meaning": "to get out of the way / to remove oneself — emphatic, often figurative"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 1 — Specific words, June 2026"
+  },
+  {
+    "id": "cg-intelligenza-artificiale",
+    "italianTerm": "intelligenza artificiale (IA)",
+    "englishTranslation": "artificial intelligence (AI)",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology"
+    ],
+    "grammarNotes": "Intelligenza artificiale is a feminine noun phrase: l'intelligenza artificiale, abbreviated as IA. The abbreviation follows Italian word order — intelligenza first, artificiale second — which is why the Italian acronym is IA and not AI. In Italian texts and speech, both the full form and the abbreviation are common; IA is increasingly used in headlines and casual reference. The phrase takes feminine agreement throughout: 'l'IA è diventata potente' (AI has become powerful), 'le intelligenze artificiali' (artificial intelligences, plural). When used as a modifier it remains invariable: 'un sistema di IA', 'strumenti di intelligenza artificiale'.",
+    "learnerNotes": "The single most important thing to know: Italians say and write IA, not AI. If you say 'AI' with the English pronunciation in an Italian conversation, you will be understood — it's creeping into usage — but IA is the correct and standard Italian form, and using it marks you as someone who knows the language well. The full phrase intelligenza artificiale is formal and appears in journalism, academia, and official discourse; in casual conversation Italians increasingly just say 'la IA' or even borrow 'l'AI' (pronounced as two letters). Either way, the article is always feminine: la IA, l'IA.",
+    "exampleSentences": [
+      {
+        "italian": "L'intelligenza artificiale sta cambiando il mondo del lavoro.",
+        "english": "Artificial intelligence is changing the world of work."
+      },
+      {
+        "italian": "Il governo ha presentato nuove norme sull'uso della IA.",
+        "english": "The government has introduced new rules on the use of AI."
+      },
+      {
+        "italian": "Molte aziende italiane stanno investendo nell'intelligenza artificiale.",
+        "english": "Many Italian companies are investing in artificial intelligence."
+      },
+      {
+        "italian": "La IA generativa è al centro del dibattito pubblico.",
+        "english": "Generative AI is at the centre of public debate."
+      },
+      {
+        "italian": "Non capisco ancora bene come funziona l'intelligenza artificiale.",
+        "english": "I still don't fully understand how artificial intelligence works."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "IA generativa",
+        "meaning": "generative AI — the specific term for systems like large language models"
+      },
+      {
+        "expression": "IA applicata",
+        "meaning": "applied AI — AI used in specific practical domains"
+      },
+      {
+        "expression": "etica dell'IA",
+        "meaning": "AI ethics — a growing field of public and academic discussion"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-algoritmo",
+    "italianTerm": "algoritmo",
+    "englishTranslation": "algorithm",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology"
+    ],
+    "grammarNotes": "Algoritmo is a masculine noun (l'algoritmo, gli algoritmi). It entered Italian from medieval Latin via Arabic — the word derives from the name of the 9th-century mathematician al-Khwarizmi. In contemporary usage it appears both in precise technical contexts and in loose everyday speech, where it often means simply 'the system that decides what I see online.' The plural gli algoritmi is standard; in journalism you'll frequently see 'gli algoritmi dei social media' (social media algorithms) and 'l'algoritmo di raccomandazione' (recommendation algorithm).",
+    "learnerNotes": "Algoritmo has crossed from technical jargon into everyday Italian conversation, particularly around social media and online platforms. Italians now routinely say things like 'l'algoritmo mi ha consigliato questo video' (the algorithm recommended this video to me) or 'devo capire come funziona l'algoritmo' (I need to understand how the algorithm works) in perfectly casual speech. The stress falls on the second syllable: al-GO-rit-mo — a common mispronunciation among English speakers who stress the first syllable as in English. Getting the stress right makes a real difference to naturalness.",
+    "exampleSentences": [
+      {
+        "italian": "L'algoritmo di Instagram decide quali post vedere per primo.",
+        "english": "Instagram's algorithm decides which posts you see first."
+      },
+      {
+        "italian": "Gli esperti hanno analizzato l'algoritmo per trovare eventuali bias.",
+        "english": "Experts analysed the algorithm to find any biases."
+      },
+      {
+        "italian": "Non so come funziona l'algoritmo, ma sembra che sappia tutto di me.",
+        "english": "I don't know how the algorithm works, but it seems to know everything about me."
+      },
+      {
+        "italian": "Molti algoritmi di IA vengono addestrati su enormi quantità di dati.",
+        "english": "Many AI algorithms are trained on enormous quantities of data."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "algoritmo di raccomandazione",
+        "meaning": "recommendation algorithm — used by streaming and social media platforms"
+      },
+      {
+        "expression": "bias algoritmico",
+        "meaning": "algorithmic bias — when an algorithm produces systematically skewed results"
+      },
+      {
+        "expression": "addestramento dell'algoritmo",
+        "meaning": "algorithm training — the process of training an AI model"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-dati",
+    "italianTerm": "dati",
+    "englishTranslation": "data / personal data / facts",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology",
+      "Work"
+    ],
+    "grammarNotes": "Dati is the plural of dato (masculine noun: il dato, i dati). In technology and everyday digital contexts it is almost always used in the plural — 'i dati' — because data in Italian, as in technical English, is treated as a plural concept. The singular dato exists and means a single piece of data, a fact, or a datum, but you'll encounter it far less frequently than the plural. Key compound phrases: 'dati personali' (personal data), 'protezione dei dati' (data protection), 'raccolta dati' (data collection), 'analisi dei dati' (data analysis).",
+    "learnerNotes": "Dati is one of those words that sounds simple but appears constantly in Italian digital life — cookie notices, app permissions, privacy policies, news articles. Every time you download an Italian app or visit an Italian website, you'll encounter 'i tuoi dati personali' (your personal data) and 'trattamento dei dati' (data processing). The GDPR — known in Italy as GDPR or Regolamento Generale sulla Protezione dei Dati — has made data privacy vocabulary part of everyday Italian literacy. Knowing dati and its compounds unlocks a whole register of contemporary Italian that learners often find opaque.",
+    "exampleSentences": [
+      {
+        "italian": "Questa app raccoglie i tuoi dati personali.",
+        "english": "This app collects your personal data."
+      },
+      {
+        "italian": "I dati mostrano un aumento significativo degli utenti.",
+        "english": "The data shows a significant increase in users."
+      },
+      {
+        "italian": "La protezione dei dati è un diritto fondamentale in Europa.",
+        "english": "Data protection is a fundamental right in Europe."
+      },
+      {
+        "italian": "Bisogna analizzare i dati prima di trarre conclusioni.",
+        "english": "You need to analyse the data before drawing conclusions."
+      },
+      {
+        "italian": "Non condividere mai i tuoi dati bancari online.",
+        "english": "Never share your banking data online."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "dati personali",
+        "meaning": "personal data — the key term in privacy law and app permissions"
+      },
+      {
+        "expression": "protezione dei dati",
+        "meaning": "data protection — central concept in GDPR and Italian law"
+      },
+      {
+        "expression": "dato di fatto",
+        "meaning": "a fact / a matter of fact — the singular used idiomatically"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-modello",
+    "italianTerm": "modello",
+    "englishTranslation": "model / AI model / pattern / template",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology"
+    ],
+    "grammarNotes": "Modello is a masculine noun (il modello, i modelli). In Italian it has a wide range of meanings — a fashion model (il modello / la modella), a model car, a template or form, a role model — and in technology it has taken on the AI sense of a trained computational system. In the tech register you'll encounter 'modello linguistico' (language model), 'modello di IA' (AI model), and 'grande modello linguistico' (large language model / LLM). The gender of modello stays masculine regardless of context; the fashion/human sense has a feminine form modella for women.",
+    "learnerNotes": "In contemporary Italian tech journalism, modello has become the standard translation for the English 'model' in AI contexts. You'll read 'il modello è stato addestrato su miliardi di parametri' (the model was trained on billions of parameters) and 'quale modello usi?' (which model do you use?) in casual AI conversation. The potential for confusion with other meanings of modello is real — context usually resolves it, but pay attention. A useful phrase to know: 'modello di riferimento' (reference model / benchmark) appears in both tech and business Italian.",
+    "exampleSentences": [
+      {
+        "italian": "Questo è un modello linguistico addestrato su enormi quantità di testo.",
+        "english": "This is a language model trained on enormous quantities of text."
+      },
+      {
+        "italian": "Quale modello di IA usi per il tuo lavoro?",
+        "english": "Which AI model do you use for your work?"
+      },
+      {
+        "italian": "I grandi modelli linguistici stanno rivoluzionando molti settori.",
+        "english": "Large language models are revolutionising many sectors."
+      },
+      {
+        "italian": "Il modello ha fatto un errore nella traduzione.",
+        "english": "The model made an error in the translation."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "modello linguistico",
+        "meaning": "language model — the Italian term for LLM"
+      },
+      {
+        "expression": "grande modello linguistico",
+        "meaning": "large language model (LLM) — the full Italian term"
+      },
+      {
+        "expression": "modello di riferimento",
+        "meaning": "reference model / benchmark — used in tech and business contexts"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-apprendimento-automatico",
+    "italianTerm": "apprendimento automatico",
+    "englishTranslation": "machine learning",
+    "partOfSpeech": "phrase",
+    "level": "Advanced",
+    "register": [
+      "formal"
+    ],
+    "themes": [
+      "Technology"
+    ],
+    "grammarNotes": "Apprendimento automatico is a masculine noun phrase (l'apprendimento automatico). Apprendimento means learning or acquisition (from the verb apprendere, to learn), and automatico means automatic — together they render the English 'machine learning' precisely. In formal and academic Italian this is the standard term; in practice, many Italian tech professionals simply say 'machine learning' using the English term directly, especially in startup and tech-company environments. Both forms are correct and widely understood; the Italian term is preferred in journalism, government documents, and educational contexts.",
+    "learnerNotes": "Italian tech vocabulary presents an interesting split: some English terms are adopted wholesale (like 'machine learning', 'startup', 'software'), while others have established Italian equivalents that are genuinely used. Apprendimento automatico is in the second category — it's a real, living Italian term, not just a translation exercise. A related term worth knowing is 'apprendimento profondo' (deep learning), which follows the same pattern. If you're reading Italian AI news, you'll encounter both the Italian and English forms, sometimes in the same article — Italian tech writers often use both interchangeably.",
+    "exampleSentences": [
+      {
+        "italian": "L'apprendimento automatico permette ai computer di imparare dai dati.",
+        "english": "Machine learning allows computers to learn from data."
+      },
+      {
+        "italian": "Molte aziende usano l'apprendimento automatico per analizzare i clienti.",
+        "english": "Many companies use machine learning to analyse customers."
+      },
+      {
+        "italian": "Il corso universitario copre sia l'IA che l'apprendimento automatico.",
+        "english": "The university course covers both AI and machine learning."
+      },
+      {
+        "italian": "L'apprendimento automatico è alla base dei sistemi di raccomandazione.",
+        "english": "Machine learning is at the foundation of recommendation systems."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "apprendimento profondo",
+        "meaning": "deep learning — a subset of machine learning using neural networks"
+      },
+      {
+        "expression": "rete neurale",
+        "meaning": "neural network — the computational architecture behind deep learning"
+      },
+      {
+        "expression": "addestramento del modello",
+        "meaning": "model training — the process of teaching a model from data"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-dispositivo",
+    "italianTerm": "dispositivo",
+    "englishTranslation": "device / gadget",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Technology",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Dispositivo is a masculine noun (il dispositivo, i dispositivi). It is the standard Italian word for any electronic or digital device — smartphone, tablet, computer, smart speaker, wearable — and appears constantly in app settings, tech support, and everyday conversation. The plural i dispositivi is frequently used: 'tutti i tuoi dispositivi' (all your devices) is a phrase you'll encounter in cloud storage settings, email clients, and security notifications. It can also refer to non-digital devices or mechanisms in formal/technical contexts, but the digital sense dominates contemporary usage.",
+    "learnerNotes": "Dispositivo is one of the most useful technology words to internalize because it appears in so many practical contexts — phone settings menus, Wi-Fi setup screens, app permissions, security alerts. When your Italian phone says 'dispositivo non riconosciuto' it means 'unrecognised device'; 'gestisci i tuoi dispositivi' means 'manage your devices.' The word feels formal but is completely standard across all registers in tech contexts — there is no more casual alternative. Learners sometimes reach for the English 'device' in conversation, but dispositivo is short enough and natural enough that it's worth using.",
+    "exampleSentences": [
+      {
+        "italian": "Questo dispositivo non è compatibile con l'ultima versione del sistema.",
+        "english": "This device is not compatible with the latest version of the system."
+      },
+      {
+        "italian": "Puoi accedere al tuo account da qualsiasi dispositivo.",
+        "english": "You can access your account from any device."
+      },
+      {
+        "italian": "Il dispositivo si è spento improvvisamente senza motivo.",
+        "english": "The device switched off suddenly for no reason."
+      },
+      {
+        "italian": "Connetti il dispositivo alla rete Wi-Fi per continuare.",
+        "english": "Connect the device to the Wi-Fi network to continue."
+      },
+      {
+        "italian": "I dispositivi indossabili raccolgono dati sulla salute in tempo reale.",
+        "english": "Wearable devices collect health data in real time."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "dispositivo mobile",
+        "meaning": "mobile device — smartphone or tablet"
+      },
+      {
+        "expression": "dispositivo indossabile",
+        "meaning": "wearable device — smartwatch, fitness tracker, etc."
+      },
+      {
+        "expression": "gestione dei dispositivi",
+        "meaning": "device management — common in IT and cloud account settings"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-piattaforma",
+    "italianTerm": "piattaforma",
+    "englishTranslation": "platform / online platform",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Technology",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Piattaforma is a feminine noun (la piattaforma, le piattaforme). Its literal meaning is a physical platform or stage, but in contemporary Italian the digital sense dominates in everyday conversation: social media platforms, streaming platforms, e-commerce platforms. The plural le piattaforme is widely used: 'le piattaforme di streaming' (streaming platforms), 'le grandi piattaforme tecnologiche' (big tech platforms). It is often used with the definite article even in generic statements: 'la piattaforma è andata offline' (the platform went offline).",
+    "learnerNotes": "Piattaforma is one of those words that has been so thoroughly absorbed into the digital vocabulary that Italians use it constantly without thinking of its physical origin. It appears in news coverage of tech regulation ('le piattaforme devono rispettare le norme europee'), in everyday conversation ('su quale piattaforma guardi i film?'), and in political debate about digital power. A useful distinction: Italians often specify the type — 'piattaforma social' (social media platform), 'piattaforma di streaming' (streaming platform), 'piattaforma di e-commerce' — rather than just saying 'piattaforma' alone, which can be ambiguous.",
+    "exampleSentences": [
+      {
+        "italian": "Su quale piattaforma guardi le serie televisive?",
+        "english": "Which platform do you watch TV series on?"
+      },
+      {
+        "italian": "Le grandi piattaforme tecnologiche sono sempre più regolamentate.",
+        "english": "Big tech platforms are increasingly regulated."
+      },
+      {
+        "italian": "La piattaforma è andata offline per manutenzione.",
+        "english": "The platform went offline for maintenance."
+      },
+      {
+        "italian": "Molti creator guadagnano pubblicando contenuti sulle piattaforme social.",
+        "english": "Many creators earn money by publishing content on social platforms."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "piattaforma di streaming",
+        "meaning": "streaming platform — Netflix, Disney+, RaiPlay, etc."
+      },
+      {
+        "expression": "piattaforma social",
+        "meaning": "social media platform"
+      },
+      {
+        "expression": "piattaforma digitale",
+        "meaning": "digital platform — the broadest term covering all online services"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-aggiornamento",
+    "italianTerm": "aggiornamento",
+    "englishTranslation": "update / upgrade / updating",
+    "partOfSpeech": "noun",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Technology",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Aggiornamento is a masculine noun (l'aggiornamento, gli aggiornamenti), derived from the verb aggiornare (to update, to bring up to date — literally 'to bring to today', from giorno, day). In digital contexts it is the standard word for a software or system update. The verb form aggiornare is equally important and widely used: 'aggiornare il sistema' (to update the system), 'aggiornare un'app' (to update an app). The reflexive aggiornarsi means to keep oneself informed or up to date on a topic — a useful figurative extension.",
+    "learnerNotes": "Every Italian smartphone user sees aggiornamento constantly — it is the word iOS and Android both use for 'update' in their Italian interfaces. 'Aggiornamento disponibile' (update available), 'installa l'aggiornamento' (install the update), 'aggiornamento in corso' (update in progress) — these are phrases you'll encounter daily. Beyond the tech sense, aggiornarsi is a valuable verb for conversations about keeping up with news or developments: 'devo aggiornarmi sulla situazione' (I need to catch up on the situation) is completely natural Italian. The word has a satisfying elegance — it literally means 'bringing something to today.'",
+    "exampleSentences": [
+      {
+        "italian": "C'è un aggiornamento disponibile per il tuo telefono.",
+        "english": "There is an update available for your phone."
+      },
+      {
+        "italian": "L'aggiornamento del sistema operativo ha risolto il problema.",
+        "english": "The operating system update fixed the problem."
+      },
+      {
+        "italian": "Devo aggiornare tutte le app prima di partire.",
+        "english": "I need to update all the apps before I leave."
+      },
+      {
+        "italian": "Mi sono aggiornato sulle ultime notizie sull'IA.",
+        "english": "I caught up on the latest news about AI."
+      },
+      {
+        "italian": "L'aggiornamento automatico è attivato per impostazione predefinita.",
+        "english": "Automatic update is activated by default."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "aggiornamento automatico",
+        "meaning": "automatic update — a common setting in phone and app management"
+      },
+      {
+        "expression": "aggiornarsi",
+        "meaning": "to update oneself / to keep up to date — used both literally and figuratively"
+      },
+      {
+        "expression": "aggiornamento di sicurezza",
+        "meaning": "security update — a software patch addressing vulnerabilities"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-elaborare",
+    "italianTerm": "elaborare",
+    "englishTranslation": "to process / to elaborate / to develop",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology",
+      "Work"
+    ],
+    "grammarNotes": "Elaborare is a regular -are verb and conjugates predictably: elaboro, elabori, elabora, elaboriamo, elaborate, elaborano. In compound tenses it takes avere: ho elaborato, aveva elaborato. In technology it means to process — 'elaborare i dati' (to process data), 'elaborare un'immagine' (to process an image). Beyond tech, it carries the broader sense of working something through carefully: elaborare un'idea (to develop an idea), elaborare un piano (to work out a plan), elaborare un lutto (to process grief). This range of meaning makes it a versatile and valuable verb.",
+    "learnerNotes": "Elaborare sits at the intersection of technology and general intellectual vocabulary, which makes it doubly useful. In tech contexts it is the standard verb for computational processing — if a computer or AI system is doing something with data, it is elaborating it. In everyday Italian it appears in discussions of ideas, plans, and emotions: 'ho bisogno di tempo per elaborare quello che è successo' (I need time to process what happened) is completely natural. The noun elaborazione (processing, elaboration) follows the same pattern and is equally common — 'elaborazione dei dati' (data processing) is a phrase you'll see on Italian cookie notices and privacy policies.",
+    "exampleSentences": [
+      {
+        "italian": "Il processore elabora milioni di operazioni al secondo.",
+        "english": "The processor handles millions of operations per second."
+      },
+      {
+        "italian": "L'IA elabora le immagini in pochi millisecondi.",
+        "english": "The AI processes the images in a few milliseconds."
+      },
+      {
+        "italian": "Abbiamo bisogno di tempo per elaborare una strategia efficace.",
+        "english": "We need time to work out an effective strategy."
+      },
+      {
+        "italian": "Ha impiegato mesi per elaborare il trauma della perdita.",
+        "english": "It took him months to process the trauma of the loss."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "elaborazione dei dati",
+        "meaning": "data processing — standard term in tech and privacy contexts"
+      },
+      {
+        "expression": "elaborazione del linguaggio naturale",
+        "meaning": "natural language processing (NLP) — a key field in AI"
+      },
+      {
+        "expression": "elaborare un piano",
+        "meaning": "to work out / develop a plan — common in business and strategy"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-condividere",
+    "italianTerm": "condividere",
+    "englishTranslation": "to share / to share online / to share an opinion",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Technology",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Condividere is an irregular -ere verb. Its past participle is condiviso (irregular — not condividuto), and it takes avere in compound tenses: ho condiviso, aveva condiviso. Present tense: condivido, condividi, condivide, condividiamo, condividete, condividono. In digital contexts it is the standard translation of 'to share' — condividere un post, condividere un link, condividere una foto. It also carries the non-digital sense of sharing or holding a view in common: 'condivido la tua opinione' (I share your opinion). The noun form is condivisione (sharing).",
+    "learnerNotes": "Condividere is the verb behind the ubiquitous 'condividi' button on every Italian social media interface — the Italian equivalent of 'Share.' It has two distinct but related uses that learners need to keep clear: the digital sense (to post/forward/share content online) and the intellectual sense (to hold or share a view, experience, or value in common). 'Condivido quello che hai detto' does not mean 'I shared what you said online' — it means 'I agree with what you said / I share your view.' Context almost always makes it clear, but the double meaning is worth internalising. The irregular past participle condiviso (not condividuto) is the most common error.",
+    "exampleSentences": [
+      {
+        "italian": "Ha condiviso il video sui suoi profili social.",
+        "english": "She shared the video on her social profiles."
+      },
+      {
+        "italian": "Puoi condividere questo documento con il tuo team.",
+        "english": "You can share this document with your team."
+      },
+      {
+        "italian": "Condivido pienamente la tua preoccupazione.",
+        "english": "I fully share your concern."
+      },
+      {
+        "italian": "Non condividere mai la tua password con nessuno.",
+        "english": "Never share your password with anyone."
+      },
+      {
+        "italian": "Il post è stato condiviso migliaia di volte in poche ore.",
+        "english": "The post was shared thousands of times in a few hours."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "condivisione",
+        "meaning": "sharing — the noun form, used both digitally and figuratively"
+      },
+      {
+        "expression": "condividi",
+        "meaning": "share — the imperative/button label on social media interfaces"
+      },
+      {
+        "expression": "condividere un'opinione",
+        "meaning": "to share / hold an opinion — to agree with someone's view"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-interfaccia",
+    "italianTerm": "interfaccia",
+    "englishTranslation": "interface / user interface",
+    "partOfSpeech": "noun",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Technology"
+    ],
+    "grammarNotes": "Interfaccia is a feminine noun (l'interfaccia, le interfacce). Despite ending in -a, it follows the standard feminine pattern with -e in the plural — le interfacce, not le interfaccie. This is a common stumbling block for learners. In tech contexts you'll encounter 'interfaccia utente' (user interface / UI), 'interfaccia grafica' (graphical interface / GUI), and 'interfaccia intuitiva' (intuitive interface). The word can also be used metaphorically to describe a point of contact between two systems, organisations, or people, though this figurative use is less common.",
+    "learnerNotes": "Interfaccia is one of the Italian tech words that looks and sounds very close to its English equivalent — which makes it easy to learn but also means the plural trips people up. Remember: le interfacce (not le interfaccie). In practice, Italians in tech contexts often mix Italian and English freely — 'l'UI è molto pulita' or 'l'interfaccia è molto pulita' are both natural. However, reading Italian tech reviews, app descriptions, and software documentation, you'll find interfaccia is the consistently preferred Italian term. 'Interfaccia utente' is the full standard phrase for 'user interface'; in speech it's often shortened to just 'l'interfaccia'.",
+    "exampleSentences": [
+      {
+        "italian": "L'interfaccia di questa app è molto intuitiva.",
+        "english": "This app's interface is very intuitive."
+      },
+      {
+        "italian": "Hanno aggiornato l'interfaccia utente nella nuova versione.",
+        "english": "They updated the user interface in the new version."
+      },
+      {
+        "italian": "L'interfaccia grafica permette di usare il programma senza conoscere i comandi.",
+        "english": "The graphical interface lets you use the programme without knowing the commands."
+      },
+      {
+        "italian": "La nuova interfaccia è molto più semplice da usare.",
+        "english": "The new interface is much easier to use."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "interfaccia utente",
+        "meaning": "user interface (UI) — the standard Italian term"
+      },
+      {
+        "expression": "interfaccia grafica",
+        "meaning": "graphical user interface (GUI)"
+      },
+      {
+        "expression": "esperienza utente",
+        "meaning": "user experience (UX) — the broader design concept"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-03",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 2 — Technology, June 2026"
+  },
+  {
+    "id": "cg-dividere",
+    "italianTerm": "dividere",
+    "englishTranslation": "to divide / to split / to share",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Food",
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Dividere is a regular -ere verb that takes avere as its auxiliary. Its past participle is diviso — not dividuto, which does not exist. Key preposition pairings: dividere in (to divide into parts), dividere tra/fra (to divide among), dividere con (to share with someone). The phrase da dividere (to share / to split) is widely used as a post-noun modifier: un piatto da dividere, una bottiglia da dividere.",
+    "learnerNotes": "The critical distinction: dividere is the verb for physically splitting or sharing something, while condividere means to share digitally or to hold something in common (a view, a file, a feeling). At a restaurant, lo dividiamo or prendiamo uno solo da dividere is natural Italian — condividiamo sounds odd there, as if you are sharing an opinion rather than a dish. Dividere il conto means to split the bill, a phrase you will use constantly.",
+    "exampleSentences": [
+      {
+        "italian": "Dividiamo la pizza?",
+        "english": "Shall we split the pizza?"
+      },
+      {
+        "italian": "Prendiamo un tiramisù da dividere.",
+        "english": "Let's get one tiramisù to share."
+      },
+      {
+        "italian": "Hanno diviso il conto in parti uguali.",
+        "english": "They split the bill equally."
+      },
+      {
+        "italian": "Divideva il suo tempo tra il lavoro e la famiglia.",
+        "english": "He divided his time between work and family."
+      },
+      {
+        "italian": "La città è divisa in quartieri molto diversi tra loro.",
+        "english": "The city is divided into very different neighbourhoods."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "dividere il conto",
+        "meaning": "to split the bill — the standard phrase at a restaurant"
+      },
+      {
+        "expression": "da dividere",
+        "meaning": "to share / to split — used after a noun: un piatto da dividere"
+      },
+      {
+        "expression": "condividere",
+        "meaning": "to share digitally or hold in common — not for splitting food or bills"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-gremito",
+    "italianTerm": "gremito",
+    "englishTranslation": "packed / crowded / crammed full",
+    "partOfSpeech": "adjective",
+    "level": "Intermediate",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Gremito is the past participle of the verb gremire (to fill, to pack), used predicatively or attributively as an adjective. It agrees in gender and number: gremito, gremita, gremiti, gremite. The construction gremito di is standard — the preposition di introduces what fills the space: la piazza era gremita di gente, la sala era gremita di spettatori. It is almost always used to describe enclosed or defined spaces (rooms, squares, theatres, stadiums) rather than open areas.",
+    "learnerNotes": "The key distinction among the crowd-adjectives: gremito implies a space filled to capacity — it carries a sense of fullness that affollato does not require. Affollato simply means there are a lot of people; gremito means the place is packed out. Stipato is stronger still — uncomfortably crammed. Use gremito when the theatre was sold out, the square was heaving; use affollato when the café was busy. Pieno (full) overlaps but is more general and can describe containers, not just crowds.",
+    "exampleSentences": [
+      {
+        "italian": "Il teatro era gremito di spettatori.",
+        "english": "The theatre was packed with audience members."
+      },
+      {
+        "italian": "La piazza era gremita per il concerto.",
+        "english": "The square was packed out for the concert."
+      },
+      {
+        "italian": "Siamo arrivati tardi e la sala era già gremita.",
+        "english": "We arrived late and the hall was already full to capacity."
+      },
+      {
+        "italian": "Un autobus gremito nelle ore di punta.",
+        "english": "A packed bus during rush hour."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "affollato",
+        "meaning": "crowded — busy with people, but not necessarily full to capacity"
+      },
+      {
+        "expression": "stipato",
+        "meaning": "crammed / packed in — uncomfortable, even more extreme than gremito"
+      },
+      {
+        "expression": "gremito di gente",
+        "meaning": "packed with people — the most common collocation"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-indugiare",
+    "italianTerm": "indugiare",
+    "englishTranslation": "to linger / to dawdle / to dwell on",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": [
+      "neutral",
+      "formal"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Indugiare is a regular -are verb that takes avere as its auxiliary. The past participle is indugiato. It is typically used intransitively: indugiare su qualcosa means to dwell on or linger over something (a topic, a thought, a scene). In the sense of physically lingering somewhere, it is most natural in the imperfect or passato prossimo: indugiavamo nel cortile, ha indugiato sulla soglia. The gerund indugiando appears frequently in literary and journalistic prose.",
+    "learnerNotes": "Indugiare is a real, understood verb but sits at a formal-to-literary register — a friend recounting their afternoon would not say stavamo indugiando dopo pranzo. In everyday conversation, Italians reach for ci siamo attardati (we lingered / we stayed on longer than planned) or siamo rimasti lì (we just stayed there). Save indugiare for writing, for describing a camera dwelling on a scene, or for when you want a slightly elevated tone. The related noun indugio appears in the common phrase senza indugio — without delay.",
+    "exampleSentences": [
+      {
+        "italian": "Ha indugiato sulla soglia prima di entrare.",
+        "english": "He lingered on the threshold before going in."
+      },
+      {
+        "italian": "Il regista indugia sui dettagli del paesaggio.",
+        "english": "The director lingers over the details of the landscape."
+      },
+      {
+        "italian": "Non indugiare troppo — dobbiamo andare.",
+        "english": "Don't dawdle — we need to go."
+      },
+      {
+        "italian": "Indugiavano nel cortile a chiacchierare anche dopo cena.",
+        "english": "They would linger in the courtyard chatting even after dinner."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "senza indugio",
+        "meaning": "without delay — formal fixed phrase, very common in writing"
+      },
+      {
+        "expression": "attardarsi",
+        "meaning": "to linger / stay longer than planned — the natural everyday alternative"
+      },
+      {
+        "expression": "trattenersi",
+        "meaning": "to hold back / to stay on — also everyday, with an added sense of restraint"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-attardarsi",
+    "italianTerm": "attardarsi",
+    "englishTranslation": "to linger / to stay longer than planned / to be late leaving",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Attardarsi is a reflexive verb conjugated with essere: mi sono attardato, ti sei attardata, si è attardato/a. The root is tardo (late, slow), so the verb literally means to make oneself late. It is typically followed by a or in + place, or by a + infinitive to describe what one lingered doing: ci siamo attardati a tavola, si è attardata in ufficio. The imperfect is natural for habitual lingering; the passato prossimo for a specific occasion.",
+    "learnerNotes": "Attardarsi is the go-to everyday verb for lingering — the one an Italian friend would naturally use. It implies staying somewhere longer than you originally intended, often pleasurably: a long lunch that ran late, a conversation that went on, a walk that extended itself. It contrasts with indugiare (more literary and formal) and trattenersi (which adds a nuance of holding oneself back or restraining the urge to leave). If you want to say 'we just lingered after lunch,' ci siamo attardati a tavola dopo pranzo is exactly right.",
+    "exampleSentences": [
+      {
+        "italian": "Ci siamo attardati a tavola e siamo tornati tardi.",
+        "english": "We lingered at the table and got back late."
+      },
+      {
+        "italian": "Si è attardata in ufficio a finire il lavoro.",
+        "english": "She stayed on at the office to finish her work."
+      },
+      {
+        "italian": "I ragazzi si sono attardati al parco fino al tramonto.",
+        "english": "The kids lingered in the park until sunset."
+      },
+      {
+        "italian": "Non voglio attardarmi — ho un appuntamento.",
+        "english": "I don't want to linger — I have an appointment."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "indugiare",
+        "meaning": "to linger — more literary and formal register; same core meaning"
+      },
+      {
+        "expression": "trattenersi",
+        "meaning": "to stay on / hold back — implies a degree of restraint or deliberate choice to remain"
+      },
+      {
+        "expression": "fare tardi",
+        "meaning": "to stay out late / to be late — overlapping but focused on the lateness outcome"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-trattenersi",
+    "italianTerm": "trattenersi",
+    "englishTranslation": "to stay on / to linger / to hold oneself back / to restrain oneself",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Trattenersi is a reflexive verb conjugated with essere: mi sono trattenuto, ti sei trattenuta, si è trattenuto/a. The non-reflexive form trattenere means to hold back or detain someone else — mi ha trattenuto (he held me up / kept me there). The reflexive form adds a sense of personal choice or self-restraint: non riusciva a trattenersi dal ridere (he couldn't hold back from laughing). Used for staying on somewhere: mi sono trattenuto ancora un po' (I stayed on a little longer). Context determines which meaning applies.",
+    "learnerNotes": "Trattenersi has two distinct uses that are worth keeping separate in your mind. First, staying on somewhere longer than planned — similar to attardarsi but with more conscious choice involved: mi sono trattenuto ancora un po' dopo la riunione. Second, restraining yourself from doing something — non riusciva a trattenersi dal commentare. The non-reflexive trattenere (to hold someone back, to detain) is equally common and explains why mi ha trattenuto means 'he kept me there' rather than 'I kept myself there.'",
+    "exampleSentences": [
+      {
+        "italian": "Mi sono trattenuto ancora un po' dopo la cena.",
+        "english": "I stayed on a little longer after dinner."
+      },
+      {
+        "italian": "Non riusciva a trattenersi dal ridere.",
+        "english": "He couldn't hold back from laughing."
+      },
+      {
+        "italian": "Scusa il ritardo — mi ha trattenuto il capo.",
+        "english": "Sorry I'm late — my boss kept me."
+      },
+      {
+        "italian": "Si è trattenuta dal dire quello che pensava davvero.",
+        "english": "She held back from saying what she really thought."
+      },
+      {
+        "italian": "Ci siamo trattenuti più del previsto e abbiamo perso il treno.",
+        "english": "We stayed on longer than planned and missed the train."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "trattenere (non riflessivo)",
+        "meaning": "to hold back / detain someone else — mi ha trattenuto: he kept me there"
+      },
+      {
+        "expression": "attardarsi",
+        "meaning": "to linger / stay later than planned — everyday, no restraint nuance"
+      },
+      {
+        "expression": "non riuscire a trattenersi",
+        "meaning": "to not be able to help oneself — fixed phrase for irresistible urges"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-persino",
+    "italianTerm": "persino / perfino",
+    "englishTranslation": "even / even… too",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Persino and perfino are completely interchangeable synonyms — there is no difference in meaning, register, or usage. Both are invariable adverbs that precede the word or phrase they modify: persino lui, perfino adesso, persino tre volte. They can appear at the start of a clause for emphasis: Persino Marco era d'accordo. They cannot end a sentence the way English 'even' sometimes can (I didn't know — even). Position is always before what is being emphasised.",
+    "learnerNotes": "Choosing between persino and perfino is purely a matter of personal preference or regional habit — both are equally correct and equally natural. The real choice is between persino/perfino and addirittura: use persino/perfino for straightforward 'even' (even Marco came, even in winter); use addirittura when you want to express genuine surprise or escalation (he didn't just help — he actually did the whole thing). Pure can also mean 'even' in certain constructions but is softer and often interchangeable with 'also/too.' Nemmeno/neppure/neanche are the negative counterparts: 'not even.'",
+    "exampleSentences": [
+      {
+        "italian": "Persino Marco è venuto alla festa.",
+        "english": "Even Marco came to the party."
+      },
+      {
+        "italian": "Faceva freddo perfino in agosto.",
+        "english": "It was cold even in August."
+      },
+      {
+        "italian": "Ha lavorato persino nel fine settimana.",
+        "english": "He worked even on the weekend."
+      },
+      {
+        "italian": "Persino i bambini capivano la situazione.",
+        "english": "Even the children understood the situation."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "addirittura",
+        "meaning": "'even' with surprise or escalation — stronger and more emphatic than persino"
+      },
+      {
+        "expression": "pure",
+        "meaning": "'even / also / too' — softer; often interchangeable with 'anche'"
+      },
+      {
+        "expression": "nemmeno / neppure / neanche",
+        "meaning": "'not even' — the negative counterparts; all three are interchangeable"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-addirittura",
+    "italianTerm": "addirittura",
+    "englishTranslation": "even / actually / downright / straight through",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Addirittura is an invariable adverb. It can function as an intensifier before adjectives, verbs, or entire clauses. In spoken Italian it frequently stands alone as a one-word exclamation expressing disbelief or surprise: — Ha vinto un milione. — Addirittura! (No way! / Really?!). It can also mean 'straight/directly' in formal or older usage (andare addirittura a Roma — to go straight to Rome), though this sense is less common in everyday speech.",
+    "learnerNotes": "Addirittura is one of those words that marks fluency — Italians use it constantly in conversation to escalate or express that something is even more extreme than expected. The key distinction from persino: persino/perfino simply means 'even,' but addirittura adds a layer of surprise, disbelief, or escalation. 'Non solo è venuto — è addirittura rimasto fino alla fine' (he didn't just come — he actually stayed until the end). As a standalone exclamation, Addirittura! is very natural: it conveys 'Wow,' 'Really?!' or 'You're kidding!' without being rude.",
+    "exampleSentences": [
+      {
+        "italian": "Ha addirittura pianto dalla gioia.",
+        "english": "He actually cried with joy."
+      },
+      {
+        "italian": "È addirittura arrivato in anticipo — non ci credo.",
+        "english": "He even arrived early — I can't believe it."
+      },
+      {
+        "italian": "— Ha mangiato tre pizze. — Addirittura!",
+        "english": "— He ate three pizzas. — No way!"
+      },
+      {
+        "italian": "La situazione era addirittura peggiore di quanto temessimo.",
+        "english": "The situation was even worse than we had feared."
+      },
+      {
+        "italian": "Ha risposto addirittura in italiano, senza esitare.",
+        "english": "She actually replied in Italian, without hesitating."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "persino / perfino",
+        "meaning": "'even' — same territory but neutral; no escalation or surprise"
+      },
+      {
+        "expression": "addirittura! (esclamazione)",
+        "meaning": "standalone exclamation: No way! / Really?! / You're kidding! — very natural in conversation"
+      },
+      {
+        "expression": "pure",
+        "meaning": "'even / also' — softer still; closer to 'too/also' than to emphatic 'even'"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-pure",
+    "italianTerm": "pure",
+    "englishTranslation": "even / also / too / go ahead / as well",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Pure is an invariable adverb with two distinct uses. First, as an additive meaning 'also/too/even': è venuto pure lui (he came too / even he came). In this use it is a near-synonym of anche and can often replace it, though pure sounds slightly more emphatic. Second, in imperatives, pure softens a permission or invitation: venga pure (please come in / go ahead and come), dica pure (go ahead and speak), fai pure (go ahead, be my guest). The second use is very common in polite registers and service interactions.",
+    "learnerNotes": "The fai pure / dica pure / venga pure construction is something you will hear and need constantly in Italy — it is the natural polite way to give someone permission or to invite them to proceed. Think of it as a smoother equivalent of 'please go ahead' or 'be my guest.' In the 'even/also' sense, pure overlaps heavily with anche; the practical difference is slight emphasis — anche is neutral, pure adds a small sense of 'too, for that matter.' Do not confuse with the adjective puro (pure, clean), which has an accent on the final syllable in some forms.",
+    "exampleSentences": [
+      {
+        "italian": "È venuto pure Marco — non me l'aspettavo.",
+        "english": "Marco came too — I wasn't expecting that."
+      },
+      {
+        "italian": "— Posso sedermi qui? — Fai pure!",
+        "english": "— Can I sit here? — Please go ahead!"
+      },
+      {
+        "italian": "Dica pure — la sto ascoltando.",
+        "english": "Go ahead and speak — I'm listening."
+      },
+      {
+        "italian": "Ho fame pure io, non solo tu.",
+        "english": "I'm hungry too, not just you."
+      },
+      {
+        "italian": "Venga pure avanti — è pronto.",
+        "english": "Please come on in — he's ready for you."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "fai pure / faccia pure",
+        "meaning": "go ahead / be my guest — polite permission, extremely common"
+      },
+      {
+        "expression": "anche",
+        "meaning": "'also / too' — the neutral everyday equivalent in the additive sense"
+      },
+      {
+        "expression": "persino / perfino",
+        "meaning": "'even' — stronger emphasis than pure when highlighting something unexpected"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-nemmeno",
+    "italianTerm": "nemmeno / neppure / neanche",
+    "englishTranslation": "not even",
+    "partOfSpeech": "adverb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Nemmeno, neppure, and neanche are fully interchangeable synonyms — all three mean 'not even' and differ only in regional preference and personal habit. All three are invariable. They function as negative adverbs and, unlike most negative words in Italian, can appear before the verb without requiring non: nemmeno lui lo sa (not even he knows it) — no non needed when nemmeno precedes the verb. When they follow the verb, non is required: non lo sa nemmeno lui.",
+    "learnerNotes": "The most common learner mistake with this group is adding non unnecessarily: non nemmeno is redundant when nemmeno leads the clause. Think of nemmeno/neppure/neanche as a 'built-in negative' when they precede the verb. Which of the three to use is entirely a matter of personal preference — Italians will use all three interchangeably and no choice sounds wrong or regional in standard speech. These are the direct negative counterparts of persino/perfino: where persino highlights something surprising that is included, nemmeno highlights something surprising that is excluded.",
+    "exampleSentences": [
+      {
+        "italian": "Nemmeno lui sapeva la risposta.",
+        "english": "Not even he knew the answer."
+      },
+      {
+        "italian": "Non ho mangiato niente — neanche la colazione.",
+        "english": "I didn't eat anything — not even breakfast."
+      },
+      {
+        "italian": "Neppure in vacanza riesce a staccare.",
+        "english": "Not even on holiday can he switch off."
+      },
+      {
+        "italian": "Non ci ha nemmeno risposto.",
+        "english": "He didn't even reply to us."
+      },
+      {
+        "italian": "— Sai dov'è? — Nemmeno per idea.",
+        "english": "— Do you know where it is? — Not even a clue."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "nemmeno per idea / per sogno",
+        "meaning": "absolutely not / not a chance — emphatic fixed refusal"
+      },
+      {
+        "expression": "persino / perfino",
+        "meaning": "'even' — the positive counterpart: includes something surprising"
+      },
+      {
+        "expression": "neanche a dirlo",
+        "meaning": "needless to say / goes without saying — common fixed phrase"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-piacere",
+    "italianTerm": "piacere (verbo)",
+    "englishTranslation": "to like / to be pleasing to",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Piacere uses essere as its auxiliary and follows the reverse-subject pattern: the thing that is liked is the grammatical subject, and the person who likes it is the indirect object. This means the verb agrees with what is liked, not with who likes it: mi piace il caffè (coffee pleases me — singular subject), mi piacciono i dolci (sweets please me — plural subject). Past tense: mi è piaciuto il film (I liked the film — masculine singular), mi sono piaciute le lasagne. The indirect object is expressed with a + person or with mi/ti/gli/le/ci/vi/gli.",
+    "learnerNotes": "The classic learner error is 'io piaccio il caffè' — treating piacere like the English verb 'to like' with a direct subject. Flip your thinking: instead of 'I like coffee,' think 'coffee is pleasing to me.' This mental shift unlocks the whole pattern. Note that the scraped entry for piacere in this app focuses on piacere as a noun (a pleasure / pleased to meet you) — that is an entirely separate usage. This entry covers piacere the verb, which operates identically to mancare, preoccupare, dispiacere, and other reverse-subject verbs.",
+    "exampleSentences": [
+      {
+        "italian": "Mi piace molto il caffè italiano.",
+        "english": "I really like Italian coffee."
+      },
+      {
+        "italian": "Mi piacciono le lunghe passeggiate in montagna.",
+        "english": "I like long walks in the mountains."
+      },
+      {
+        "italian": "Ti è piaciuto il film?",
+        "english": "Did you like the film?"
+      },
+      {
+        "italian": "A Marco piace cucinare per gli amici.",
+        "english": "Marco likes cooking for his friends."
+      },
+      {
+        "italian": "Non mi piacciono per niente le riunioni di lunedì mattina.",
+        "english": "I really don't like Monday morning meetings."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "mi è piaciuto / mi è piaciuta",
+        "meaning": "I liked it — past tense; agreement follows the gender of what was liked"
+      },
+      {
+        "expression": "piacere (sostantivo)",
+        "meaning": "pleasure / pleased to meet you — a completely separate usage from the verb"
+      },
+      {
+        "expression": "non mi va",
+        "meaning": "I don't feel like it / I'm not into it — colloquial alternative for preferences in the moment"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-preoccupare",
+    "italianTerm": "preoccupare / preoccuparsi",
+    "englishTranslation": "to worry (someone) / to be worried about",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Emotions",
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Preoccupare has two distinct forms with different structures. Non-reflexive preoccupare follows the reverse-subject pattern: the worrying thing is the subject, the worried person is the indirect object — mi preoccupano gli alberi (the trees worry me; literally, the trees are worrying to me). Reflexive preoccuparsi means to worry / to be concerned, and uses essere as auxiliary: mi sono preoccupato (I got worried). With preoccuparsi, the preposition per introduces what you are worried about: mi preoccupo per lui, si è preoccupata per i risultati.",
+    "learnerNotes": "Your sentence 'mi preoccupano gli alberi' is grammatically perfect — gli alberi is the subject (hence plural verb), mi is the indirect object. This is the same reverse-subject structure as mi piacciono i dolci or mi mancano gli amici. The trees are doing the worrying; you are the recipient of that worry. The reflexive preoccuparsi is the more everyday form for expressing personal anxiety: non preoccuparti (don't worry) is one of the most common phrases in Italian. Both forms are essential and you will use them constantly.",
+    "exampleSentences": [
+      {
+        "italian": "Mi preoccupano gli alberi — sembrano malati.",
+        "english": "The trees worry me — they look sick."
+      },
+      {
+        "italian": "La situazione mi preoccupa molto.",
+        "english": "The situation worries me a lot."
+      },
+      {
+        "italian": "Non preoccuparti — andrà tutto bene.",
+        "english": "Don't worry — everything will be fine."
+      },
+      {
+        "italian": "Si è preoccupata molto per i risultati dell'esame.",
+        "english": "She was very worried about the exam results."
+      },
+      {
+        "italian": "Cosa ti preoccupa di più in questo momento?",
+        "english": "What worries you most right now?"
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "non preoccuparti / non si preoccupi",
+        "meaning": "don't worry — one of the most common phrases in Italian; informal and formal forms"
+      },
+      {
+        "expression": "preoccupazione",
+        "meaning": "worry / concern — the noun form, very common"
+      },
+      {
+        "expression": "mi dà pensiero",
+        "meaning": "it worries me / it's on my mind — more colloquial alternative"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3A — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-mancare",
+    "italianTerm": "mancare",
+    "englishTranslation": "to miss (someone/something) / to be missing / to lack",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Emotions",
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Mancare follows the reverse-subject pattern and uses essere as its auxiliary. The thing or person that is missed is the grammatical subject; the person doing the missing is the indirect object: mi manchi (you are missing to me = I miss you), mi mancano gli amici (my friends are missing to me = I miss my friends). Past tense: mi sei mancato/a (I missed you — agreement with the subject, not the speaker). In the sense of 'to be missing/lacking,' mancare takes no indirect object: manca il sale (the salt is missing), mancano dieci minuti (ten minutes are lacking = there are ten minutes to go).",
+    "learnerNotes": "Mi manchi is one of the most important phrases in Italian and one of the most reliably mistranslated. English speakers instinctively want to say 'io manco te' — resist this completely. The subject is always the thing or person missed, never the person feeling the missing. A useful test: if you can say 'X is missing from my life,' X is the subject in Italian. The countdown use — mancano tre giorni (three days to go / three days are missing) — is completely natural and very common; do not overlook it.",
+    "exampleSentences": [
+      {
+        "italian": "Mi manchi tanto.",
+        "english": "I miss you so much."
+      },
+      {
+        "italian": "Mi mancano gli amici di Roma.",
+        "english": "I miss my friends from Rome."
+      },
+      {
+        "italian": "Gli manca il coraggio di dirlo.",
+        "english": "He lacks the courage to say it."
+      },
+      {
+        "italian": "Mancano solo due giorni alle vacanze.",
+        "english": "There are only two days to go until the holidays."
+      },
+      {
+        "italian": "Mi sei mancata moltissimo quest'estate.",
+        "english": "I missed you so much this summer."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "mi manchi",
+        "meaning": "I miss you — singular; the most important form to know"
+      },
+      {
+        "expression": "manca poco",
+        "meaning": "not long to go / nearly there — very common in everyday speech"
+      },
+      {
+        "expression": "sentire la mancanza di",
+        "meaning": "to feel the absence of / to miss — alternative construction using the noun"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-dispiacere",
+    "italianTerm": "dispiacere / dispiacersi",
+    "englishTranslation": "to be sorry / to mind / to regret / to displease",
+    "partOfSpeech": "verb",
+    "level": "Beginner",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Emotions",
+      "Language & Usage",
+      "Everyday Life"
+    ],
+    "grammarNotes": "Like piacere and mancare, dispiacere follows the reverse-subject pattern with essere as auxiliary: mi dispiace (it displeases me = I'm sorry), mi dispiacciono certe cose (certain things displease me). It is most commonly used in the third person singular as a fixed expression of apology or regret: mi dispiace (I'm sorry), ci dispiace (we're sorry), le dispiace se...? (do you mind if...?). The past participle is dispiaciuto. The adjective form dispiaciuto/a means upset or sorry as a personal state: sono dispiaciuto/a per quello che è successo (I am sorry about what happened).",
+    "learnerNotes": "The critical distinction: mi dispiace is an expression of sympathy or apology in the moment (I'm sorry to hear that, I'm sorry about this), while sono dispiaciuto/a describes a personal emotional state — a sustained feeling of regret or upset. Italians use mi dispiace the way English speakers use 'I'm sorry' in conversation constantly — it is not overly formal or heavy. Le dispiace se apro la finestra? (Do you mind if I open the window?) is a polite everyday construction well worth learning as a fixed phrase.",
+    "exampleSentences": [
+      {
+        "italian": "Mi dispiace molto per quello che è successo.",
+        "english": "I'm really sorry about what happened."
+      },
+      {
+        "italian": "Le dispiace se apro la finestra?",
+        "english": "Do you mind if I open the window?"
+      },
+      {
+        "italian": "Sono dispiaciuto di non poter venire.",
+        "english": "I'm sorry I can't come."
+      },
+      {
+        "italian": "Mi dispiace, non l'ho fatto apposta.",
+        "english": "I'm sorry, I didn't do it on purpose."
+      },
+      {
+        "italian": "Ci dispiace comunicarle che la sua richiesta è stata rifiutata.",
+        "english": "We regret to inform you that your request has been rejected."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "mi dispiace",
+        "meaning": "I'm sorry / I regret — the core everyday expression"
+      },
+      {
+        "expression": "sono dispiaciuto/a",
+        "meaning": "I am sorry / I feel bad — personal emotional state, not a fixed apology"
+      },
+      {
+        "expression": "le dispiace se...?",
+        "meaning": "do you mind if...? — polite request construction, very useful"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-ripromettersi",
+    "italianTerm": "ripromettersi",
+    "englishTranslation": "to promise oneself / to resolve to / to make a personal commitment",
+    "partOfSpeech": "verb",
+    "level": "Advanced",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Ripromettersi is a reflexive verb that takes essere as its auxiliary: mi sono ripromesso, ti sei ripromessa, si è ripromesso/a. The construction requires di + infinitive — never a + infinitive: mi sono ripromesso di riposare (correct), not mi sono ripromesso a riposare (incorrect). The ri- prefix implies renewing a promise already made: I have promised myself again, I have re-resolved. The non-reflexive promettersi exists but means something different (to become engaged, or to promise each other).",
+    "learnerNotes": "Ripromettersi describes a private, personal resolution — the kind of commitment you make to yourself, not to someone else. It carries a tone of genuine resolve, often after a difficult experience or a lapse: me lo sono ripromesso dopo quella volta (I promised myself after that time). For lighter, more casual intentions, Italians reach for pensare di (ho pensato di riposarmi un po' — I was thinking of resting a bit) or avere intenzione di. For a promise made to another person, promettere is the right verb. Note the preposition: always di + infinitive, never a.",
+    "exampleSentences": [
+      {
+        "italian": "Mi sono ripromesso di non farlo più.",
+        "english": "I promised myself I would never do it again."
+      },
+      {
+        "italian": "Si è ripromessa di chiamarla ogni settimana.",
+        "english": "She resolved to call her every week."
+      },
+      {
+        "italian": "Me lo sono ripromesso dopo quella brutta esperienza.",
+        "english": "I made that promise to myself after that bad experience."
+      },
+      {
+        "italian": "Mi sono ripromesso di riposare di più quest'estate.",
+        "english": "I resolved to rest more this summer."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "promettersi di + inf.",
+        "meaning": "to promise oneself to — simpler alternative; ripromettersi implies renewed or reinforced resolve"
+      },
+      {
+        "expression": "avere intenzione di",
+        "meaning": "to intend to — lighter, more neutral; no personal resolve implied"
+      },
+      {
+        "expression": "pensare di",
+        "meaning": "to be thinking of / planning to — the most casual everyday alternative"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-occuparsi",
+    "italianTerm": "occuparsi (di)",
+    "englishTranslation": "to deal with / to take care of / to be responsible for / to handle",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral"
+    ],
+    "themes": [
+      "Work",
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Occuparsi is a reflexive verb taking essere as its auxiliary: mi occupo, mi sono occupato/a. The preposition di is required to introduce what one deals with: mi occupo di comunicazione (I handle communications), si occupa dei bambini (she takes care of the children). It covers a wide semantic range: professional responsibility, domestic care, handling a task, or being involved in a field. The non-reflexive occupare means to occupy (a space, a position, a country) — a completely separate meaning. Do not confuse the two.",
+    "learnerNotes": "The key distinction from similar expressions: occuparsi di implies ongoing or habitual responsibility — it is your domain, your area, your job. Me ne occupo io (I'll handle it / I'll take care of it) suggests the task falls within your sphere. Ci penso io, by contrast, is a one-time offer to handle something — more like 'leave it to me for this occasion.' Lavorare describes employment broadly; occuparsi di specifies the area of work or responsibility. You can say mi occupo di marketing without being employed — it just means that is what you deal with.",
+    "exampleSentences": [
+      {
+        "italian": "Mi occupo della comunicazione per l'azienda.",
+        "english": "I handle communications for the company."
+      },
+      {
+        "italian": "Di cosa ti occupi?",
+        "english": "What do you do? / What field are you in?"
+      },
+      {
+        "italian": "Me ne occupo io — non preoccuparti.",
+        "english": "I'll handle it — don't worry."
+      },
+      {
+        "italian": "Si occupa dei bambini mentre i genitori lavorano.",
+        "english": "She takes care of the children while the parents work."
+      },
+      {
+        "italian": "Da anni si occupa di diritti umani.",
+        "english": "For years he has worked in the field of human rights."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "ci penso io",
+        "meaning": "leave it to me / I'll sort it — one-time offer; less ongoing than me ne occupo io"
+      },
+      {
+        "expression": "badare a",
+        "meaning": "to look after / mind — focuses on care and supervision, especially of people"
+      },
+      {
+        "expression": "di cosa ti occupi?",
+        "meaning": "what do you do? — natural way to ask someone's profession or field"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-badare-a",
+    "italianTerm": "badare a",
+    "englishTranslation": "to look after / to mind / to take care of / to pay attention to",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Badare is a regular -are verb taking avere as its auxiliary. The preposition a is inseparable from its most common uses: badare a qualcuno (to look after someone), badare a qualcosa (to mind/watch something), badare ai fatti propri (to mind one's own business). In the imperative, bada a is very common: bada ai bambini (watch the kids), bada a come parli (mind how you speak). The negative imperative non badare a is equally useful: non badarci (don't worry about it / don't pay it any mind).",
+    "learnerNotes": "Badare a is the go-to verb when you are supervising, watching over, or attending to someone or something — particularly people (children, elderly relatives) and situations requiring watchfulness. Where occuparsi di implies professional or ongoing responsibility across a domain, badare a is more immediate and supervisory: puoi badare ai bambini stasera? (can you watch the kids tonight?). The phrase non badarci (don't pay any attention to it / don't worry about it) is extremely common in conversation and worth learning as a fixed expression.",
+    "exampleSentences": [
+      {
+        "italian": "Puoi badare ai bambini per un'ora?",
+        "english": "Can you watch the kids for an hour?"
+      },
+      {
+        "italian": "Non badarci — stava scherzando.",
+        "english": "Don't worry about it — he was joking."
+      },
+      {
+        "italian": "Bada ai fatti tuoi.",
+        "english": "Mind your own business."
+      },
+      {
+        "italian": "Chi bada agli anziani quando non ci siamo?",
+        "english": "Who looks after the elderly when we're not there?"
+      },
+      {
+        "italian": "Non bada molto all'aspetto fisico.",
+        "english": "He doesn't pay much attention to his appearance."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "non badarci",
+        "meaning": "don't worry about it / don't pay it any mind — very common fixed phrase"
+      },
+      {
+        "expression": "badare ai fatti propri",
+        "meaning": "to mind one's own business — a fixed expression, sometimes pointed"
+      },
+      {
+        "expression": "occuparsi di",
+        "meaning": "to handle / take care of — broader, more ongoing responsibility than badare a"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Grammar & Usage, June 2026"
+  },
+  {
+    "id": "cg-sbrigare",
+    "italianTerm": "sbrigare / sbrigarsi",
+    "englishTranslation": "to get through / to knock out (a task) / to hurry up",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Work"
+    ],
+    "grammarNotes": "Sbrigare (non-reflexive) takes avere and means to deal with or get through a task efficiently: sbrigare le commissioni (to run errands / knock out errands), sbrigare la posta (to deal with the post). The reflexive sbrigarsi takes essere and means to hurry up: sbrigati! (hurry up!), mi sono sbrigato (I hurried). The two forms are clearly distinguished by reflexivity. Both are regular -are verbs. Sbrigarsi is one of the most common Italian imperatives — sbrigati (informal) and si sbrighi (formal) are heard constantly.",
+    "learnerNotes": "Sbrigare is the verb Italians use when they want to convey efficiency — knocking tasks off a list, getting things done and out of the way. Ho sbrigato tutto stamattina (I got everything done this morning) is natural and very common. The reflexive sbrigarsi is equally essential as an imperative: sbrigati is one of those phrases you hear Italian parents, friends, and colleagues say constantly. It is direct but not rude in context. Think of sbrigare as the practical, roll-your-sleeves-up verb for tasks; fare, by contrast, is more neutral and generic.",
+    "exampleSentences": [
+      {
+        "italian": "Ho sbrigato tutte le commissioni stamattina.",
+        "english": "I got all my errands done this morning."
+      },
+      {
+        "italian": "Sbrigati — stiamo per partire!",
+        "english": "Hurry up — we're about to leave!"
+      },
+      {
+        "italian": "Devo sbrigare un po' di posta prima di uscire.",
+        "english": "I need to deal with some post before going out."
+      },
+      {
+        "italian": "Si è sbrigata e siamo arrivati in tempo.",
+        "english": "She hurried up and we made it on time."
+      },
+      {
+        "italian": "Riesci a sbrigare quella pratica entro oggi?",
+        "english": "Can you get that paperwork sorted by today?"
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "sbrigati! / si sbrighi!",
+        "meaning": "hurry up! — informal and formal imperatives; extremely common"
+      },
+      {
+        "expression": "sbrigare le commissioni",
+        "meaning": "to run errands / knock out errands — one of the most natural collocations"
+      },
+      {
+        "expression": "fare in fretta",
+        "meaning": "to hurry / to do something quickly — alternative for speed without the task-completion nuance"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  },
+  {
+    "id": "cg-capitare",
+    "italianTerm": "capitare",
+    "englishTranslation": "to happen / to come about / to turn up / to find oneself somewhere",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Capitare takes essere as its auxiliary. It has two main constructions. First, impersonal: capita (di + infinitive) — it happens (that), things happen: capita di sbagliare (it happens that one makes mistakes), capita a tutti (it happens to everyone). Second, with a place: capitare in/a + place means to end up somewhere, often by chance: sono capitato in quel ristorante per caso (I stumbled upon that restaurant by chance). The subject can be a person or a thing: mi è capitata una cosa strana (something strange happened to me).",
+    "learnerNotes": "Capitare is one of those quietly essential Italian verbs that learners often under-use because succedere and accadere feel more obvious. The distinction is subtle but real: succedere and accadere are more neutral (something occurred), while capitare implies chance or unexpectedness — something came about, turned up, or befell someone. Capita! on its own is a very natural response to someone describing a mishap — the Italian equivalent of 'these things happen' or 'that happens.' The construction capita di + infinitive is particularly useful for talking about things that occasionally happen.",
+    "exampleSentences": [
+      {
+        "italian": "Capita a tutti di fare errori.",
+        "english": "Everyone makes mistakes / it happens to everyone."
+      },
+      {
+        "italian": "Sono capitato in quel bar per caso e era ottimo.",
+        "english": "I stumbled into that bar by chance and it was great."
+      },
+      {
+        "italian": "Mi è capitata una cosa strana stamattina.",
+        "english": "Something strange happened to me this morning."
+      },
+      {
+        "italian": "— Ho perso il treno. — Capita!",
+        "english": "— I missed the train. — These things happen!"
+      },
+      {
+        "italian": "Se ti capita di passare da quelle parti, fammi sapere.",
+        "english": "If you happen to be passing through that area, let me know."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "capita!",
+        "meaning": "these things happen / it happens — natural, sympathetic response to mishaps"
+      },
+      {
+        "expression": "capitare di + inf.",
+        "meaning": "to happen to do something — ti è mai capitato di perderti? (have you ever happened to get lost?)"
+      },
+      {
+        "expression": "succedere / accadere",
+        "meaning": "to happen / to occur — more neutral; less emphasis on chance than capitare"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  },
+  {
+    "id": "cg-staccare",
+    "italianTerm": "staccare / staccarsi",
+    "englishTranslation": "to switch off / to unplug / to detach / to clock off",
+    "partOfSpeech": "verb",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Work",
+      "Technology"
+    ],
+    "grammarNotes": "Staccare takes avere in the non-reflexive form; staccarsi takes essere. The non-reflexive covers: disconnecting or unplugging (staccare la spina — to unplug / pull the plug), finishing work (stacco alle sei — I clock off at six), and detaching one thing from another. The reflexive staccarsi means to detach oneself, to come away, or figuratively to switch off mentally: non riesce a staccarsi dal telefono (he can't tear himself away from his phone). Staccare la spina is a fixed idiomatic phrase meaning to completely switch off and rest — unplug entirely.",
+    "learnerNotes": "Staccare has quietly become one of the most contemporary Italian verbs for the work-life balance conversation. Staccare (to clock off) is completely natural in speech: a che ora stacchi? (what time do you finish?). Staccare la spina (literally: to pull the plug) means to fully disconnect and recharge — you will hear it constantly when Italians talk about holidays, weekends, or needing a break from technology. The image is perfect: unplugging yourself the way you unplug a device. Non riesco a staccare is a very common complaint meaning 'I can't switch off / I can't stop thinking about work.'",
+    "exampleSentences": [
+      {
+        "italian": "Ho bisogno di staccare la spina per qualche giorno.",
+        "english": "I need to completely switch off for a few days."
+      },
+      {
+        "italian": "A che ora stacchi oggi?",
+        "english": "What time do you finish today?"
+      },
+      {
+        "italian": "Non riesce a staccarsi dal telefono nemmeno a cena.",
+        "english": "He can't put his phone down even at dinner."
+      },
+      {
+        "italian": "In vacanza finalmente sono riuscito a staccare.",
+        "english": "On holiday I finally managed to switch off."
+      },
+      {
+        "italian": "Stacca quella spina — c'è troppa corrente.",
+        "english": "Unplug that — there's too much current."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "staccare la spina",
+        "meaning": "to switch off completely / unplug — fixed idiomatic phrase for rest and disconnection"
+      },
+      {
+        "expression": "non riesco a staccare",
+        "meaning": "I can't switch off — very common complaint about work or technology"
+      },
+      {
+        "expression": "mollare tutto",
+        "meaning": "to drop everything / walk away from it all — more extreme version of staccare"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Word of the Day",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  },
+  {
+    "id": "cg-darsi-da-fare",
+    "italianTerm": "darsi da fare",
+    "englishTranslation": "to get busy / to get on with it / to make an effort / to hustle",
+    "partOfSpeech": "phrase",
+    "level": "Intermediate",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Work"
+    ],
+    "grammarNotes": "Darsi da fare is a reflexive idiomatic phrase conjugated with essere: mi sono dato/a da fare, ti sei dato/a da fare, si è dato/a da fare. It is invariable as a phrase — da fare does not change. It can be used absolutely (datti da fare! — get busy! make an effort!) or followed by per + infinitive or per + noun to specify what you are working towards: si è data da fare per organizzare la cena (she got busy organising the dinner). The imperative datti da fare is very natural and common.",
+    "learnerNotes": "Darsi da fare sits in a productive middle ground between lavorare (to work, neutral) and faticare (to labour, with difficulty). It conveys active, purposeful effort — getting things done, rolling up your sleeves — without necessarily implying employment. You can darsi da fare at a party to make it work, for a friend who needs help, or on a project. It often implies initiative: the person chose to get busy, rather than being told to. The imperative datti da fare! is a very natural encouraging push — the Italian equivalent of 'get on with it' or 'make it happen.'",
+    "exampleSentences": [
+      {
+        "italian": "Datti da fare se vuoi finire in tempo.",
+        "english": "Get busy if you want to finish on time."
+      },
+      {
+        "italian": "Si è dato da fare per trovare un lavoro migliore.",
+        "english": "He made a real effort to find a better job."
+      },
+      {
+        "italian": "Mi sono data da fare tutta la mattina per sistemare la casa.",
+        "english": "I was busy all morning getting the house sorted."
+      },
+      {
+        "italian": "Bisogna darsi da fare — non arriva niente per caso.",
+        "english": "You have to make an effort — nothing happens by chance."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "datti da fare!",
+        "meaning": "get busy! / make an effort! — natural, encouraging imperative"
+      },
+      {
+        "expression": "rimboccarsi le maniche",
+        "meaning": "to roll up your sleeves — more emphatic; implies tackling something difficult"
+      },
+      {
+        "expression": "fare del proprio meglio",
+        "meaning": "to do one's best — more about quality of effort than initiative"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  },
+  {
+    "id": "cg-fare-una-passeggiata",
+    "italianTerm": "fare una passeggiata",
+    "englishTranslation": "to go for a walk / to take a walk",
+    "partOfSpeech": "phrase",
+    "level": "Beginner",
+    "register": [
+      "neutral",
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Travel"
+    ],
+    "grammarNotes": "Fare una passeggiata uses avere as its auxiliary (ho fatto una passeggiata). The noun passeggiata is feminine: una passeggiata, la passeggiata, delle passeggiate. The phrase is flexible: andare a fare una passeggiata (to go for a walk) and fare due passi (to take a short stroll — literally 'to take two steps') are common variations. Passeggiare exists as a standalone verb (to stroll/walk) but fare una passeggiata is far more common in everyday speech. The phrase can be modified with adjectives: una bella passeggiata (a lovely walk), una lunga passeggiata (a long walk).",
+    "learnerNotes": "La passeggiata is not just a walk — in Italian culture it carries specific social weight. The evening passeggiata (typically between 5pm and 8pm) is a genuine institution in Italian towns: a ritual stroll, often along a main street or piazza, for socialising and being seen. Knowing this cultural layer makes the word richer. In everyday use, fare due passi is the more casual, spontaneous variant — 'shall we stretch our legs?' — while fare una passeggiata implies something slightly more intentional. Both are indispensable.",
+    "exampleSentences": [
+      {
+        "italian": "Facciamo una passeggiata dopo cena?",
+        "english": "Shall we go for a walk after dinner?"
+      },
+      {
+        "italian": "Ho fatto una bella passeggiata lungo il fiume stamattina.",
+        "english": "I went for a lovely walk along the river this morning."
+      },
+      {
+        "italian": "La domenica mattina di solito faccio una lunga passeggiata.",
+        "english": "On Sunday mornings I usually go for a long walk."
+      },
+      {
+        "italian": "Usciamo a fare due passi — ho bisogno di aria fresca.",
+        "english": "Let's go for a little stroll — I need some fresh air."
+      },
+      {
+        "italian": "La passeggiata serale è un rito in molte città italiane.",
+        "english": "The evening stroll is a ritual in many Italian towns."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "fare due passi",
+        "meaning": "to take a short stroll — more casual and spontaneous than fare una passeggiata"
+      },
+      {
+        "expression": "andare a passeggio",
+        "meaning": "to go for a walk / to go strolling — slightly more old-fashioned alternative"
+      },
+      {
+        "expression": "la passeggiata serale",
+        "meaning": "the evening stroll — a genuine Italian social ritual, especially in smaller towns"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  },
+  {
+    "id": "cg-ammazzare-il-tempo",
+    "italianTerm": "ammazzare il tempo",
+    "englishTranslation": "to kill time / to pass the time",
+    "partOfSpeech": "phrase",
+    "level": "Intermediate",
+    "register": [
+      "colloquial"
+    ],
+    "themes": [
+      "Everyday Life",
+      "Language & Usage"
+    ],
+    "grammarNotes": "Ammazzare il tempo uses avere as its auxiliary (ho ammazzato il tempo). Ammazzare literally means to kill (a person or animal) — its application to time is purely idiomatic. The phrase is invariable: il tempo does not change. It can appear with various subjects: ammazzo il tempo (I'm killing time), stavamo ammazzando il tempo (we were killing time). Alternative constructions: passare il tempo a + infinitive (to pass the time by doing something) is more neutral; ingannare il tempo (to while away the time) is slightly more literary.",
+    "learnerNotes": "Ammazzare il tempo is genuinely colloquial — it is the phrase friends use, not something you would write in formal Italian. It carries the same mild irreverence as English 'killing time' — there is a slight implication of boredom or waiting. For a more neutral register, passare il tempo is always safe. Worth noting: ammazzare on its own is strong — it means to kill and is not softened in other contexts. The idiomatic use with il tempo is completely standard and understood, but do not carry over that casualness to other uses of ammazzare.",
+    "exampleSentences": [
+      {
+        "italian": "Stavamo ammazzando il tempo in aeroporto con un caffè.",
+        "english": "We were killing time at the airport over a coffee."
+      },
+      {
+        "italian": "Come ammazzi il tempo quando aspetti?",
+        "english": "How do you kill time when you're waiting?"
+      },
+      {
+        "italian": "Ho ammazzato il tempo guardando video sul telefono.",
+        "english": "I killed time watching videos on my phone."
+      },
+      {
+        "italian": "Senza musica non saprei come ammazzare il tempo in treno.",
+        "english": "Without music I wouldn't know how to pass the time on the train."
+      }
+    ],
+    "relatedExpressions": [
+      {
+        "expression": "passare il tempo",
+        "meaning": "to pass the time — more neutral alternative, suitable in any register"
+      },
+      {
+        "expression": "ingannare il tempo",
+        "meaning": "to while away the time — slightly more literary; same meaning"
+      },
+      {
+        "expression": "non sapere cosa fare",
+        "meaning": "to not know what to do with oneself — the state that leads to ammazzare il tempo"
+      }
+    ],
+    "sourceURL": "custom",
+    "datePublished": "2026-06-04",
+    "entryType": "Phrase of the Week",
+    "batchNote": "Batch 3B — Everyday Routines, June 2026"
+  }
+]
